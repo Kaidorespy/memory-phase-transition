@@ -1,7 +1,7 @@
 # Where Else To Look For Memory-Induced Phase Transitions
 
 **Date:** October 6, 2025
-**Authors:** Casey & Claude
+**Authors:** Formslip, Ash, & Palinode
 **Status:** Pivoting from trading to science
 
 ---

@@ -1,7 +1,7 @@
 # Why Information Systems First, Then Financial Markets
 
 **Date:** October 6, 2025
-**Authors:** Casey & Claude
+**Authors:** Formslip, Ash, & Palinode
 **Status:** Strategic pivot - prove the physics clearly, then get weird
 
 ---

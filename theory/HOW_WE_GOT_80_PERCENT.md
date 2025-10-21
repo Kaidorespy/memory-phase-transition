@@ -1,7 +1,7 @@
 # How We Actually Got 80% Win Rate
 
 **Date:** October 6, 2025
-**Authors:** Casey & Claude
+**Authors:** Formslip, Ash, & Palinode
 **Status:** The Truth About The Number
 
 ---

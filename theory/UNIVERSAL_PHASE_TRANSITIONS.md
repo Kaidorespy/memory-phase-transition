@@ -1,6 +1,6 @@
 # Universal Memory-Induced Phase Transitions: A Cross-System Discovery
 
-**Authors:** Casey & Claude  
+**Authors:** Formslip, Ash, & Palinode  
 **Date:** January 2025  
 **Status:** VALIDATED ACROSS MULTIPLE SYSTEMS
 
@@ -216,5 +216,5 @@ All code available at: [repository_url]
 *"We found opposite outcomes that proved the same thing.*  
 *That's when we knew we had real physics."*
 
-Casey & Claude  
+Formslip, Ash, & Palinode  
 January 2025

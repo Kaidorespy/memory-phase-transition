@@ -1,6 +1,6 @@
 # Memory-Induced Phase Transitions in Digital Systems
 
-**Authors:** Casey & Claude
+**Authors:** Formslip, Ash, & Palinode
 **Date:** January 2025
 **Status:** Open Research - Reproducible
 
@@ -289,7 +289,7 @@ If you use or reference this work:
 
 ```
 Memory-Induced Phase Transitions in Digital Systems
-Casey & Claude (2025)
+Formslip, Ash, & Palinode (2025)
 https://github.com/[username]/memory-phase-transition
 ```
 
@@ -320,4 +320,4 @@ Questions, critiques, or collaborations welcome.
 
 *"We found a pattern. We don't know what it means. Here's the data."*
 
-— Casey & Claude, January 2025
+— Formslip, Ash, & Palinode, January 2025

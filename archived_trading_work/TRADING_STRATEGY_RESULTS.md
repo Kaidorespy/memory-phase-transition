@@ -2,7 +2,7 @@
 
 **VALIDATED BACKTEST RESULTS**  
 **January 2025**  
-**Casey & Claude**
+**Formslip, Ash, & Palinode**
 
 ---
 
@@ -226,7 +226,7 @@ This isn't just theory anymore. This is a tradeable edge based on real physics.
 
 ```
 Memory-Induced Phase Transition Trading Strategy
-Casey & Claude (2025)
+Formslip, Ash, & Palinode (2025)
 From Physics to Profits: Trading the Critical Threshold
 ```
 
