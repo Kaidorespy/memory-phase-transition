@@ -1,0 +1,721 @@
+{
+  "validation_date": "2025-10-20T21:14:24.910031",
+  "sample_size": 100,
+  "query": "created:2020-01-01..2023-12-31 stars:>1000",
+  "results": [
+    {
+      "repo": "Significant-Gravitas/AutoGPT",
+      "time_to_100": 15,
+      "acceleration": 15.0,
+      "category": "fast",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "AUTOMATIC1111/stable-diffusion-webui",
+      "time_to_100": 5,
+      "acceleration": 5.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "ollama/ollama",
+      "time_to_100": 18,
+      "acceleration": 18.0,
+      "category": "fast",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "massgravel/Microsoft-Activation-Scripts",
+      "time_to_100": 41,
+      "acceleration": 1.2058823529411764,
+      "category": "gradual",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "langflow-ai/langflow",
+      "time_to_100": 1,
+      "acceleration": 1.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "yt-dlp/yt-dlp",
+      "time_to_100": 50,
+      "acceleration": 4.166666666666667,
+      "category": "gradual",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "labuladong/fucking-algorithm",
+      "time_to_100": 1,
+      "acceleration": 0.5,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "krahets/hello-algo",
+      "time_to_100": 8,
+      "acceleration": 1.6,
+      "category": "fast",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "time_to_100": 2,
+      "acceleration": 0.2,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "langgenius/dify",
+      "time_to_100": 27,
+      "acceleration": 27.0,
+      "category": "fast",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "open-webui/open-webui",
+      "time_to_100": 23,
+      "acceleration": 2.3,
+      "category": "fast",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "excalidraw/excalidraw",
+      "time_to_100": 2,
+      "acceleration": 2.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "rustdesk/rustdesk",
+      "time_to_100": 181,
+      "acceleration": 181.0,
+      "category": "gradual",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "microsoft/generative-ai-for-beginners",
+      "time_to_100": 4,
+      "acceleration": 4.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "shadcn-ui/ui",
+      "time_to_100": 0,
+      "acceleration": 0.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "Anduin2017/HowToCook",
+      "time_to_100": 697,
+      "acceleration": 46.46666666666667,
+      "category": "gradual",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "microsoft/Web-Dev-For-Beginners",
+      "time_to_100": 3,
+      "acceleration": 3.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "comfyanonymous/ComfyUI",
+      "time_to_100": 10,
+      "acceleration": 0.9090909090909091,
+      "category": "fast",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "openai/whisper",
+      "time_to_100": 4,
+      "acceleration": 4.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "ggml-org/llama.cpp",
+      "time_to_100": 0,
+      "acceleration": 0.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "ChatGPTNextWeb/NextChat",
+      "time_to_100": 2,
+      "acceleration": 2.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "immich-app/immich",
+      "time_to_100": 0,
+      "acceleration": 0.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "oven-sh/bun",
+      "time_to_100": 53,
+      "acceleration": 4.818181818181818,
+      "category": "gradual",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "clash-verge-rev/clash-verge-rev",
+      "time_to_100": 0,
+      "acceleration": 0.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "nomic-ai/gpt4all",
+      "time_to_100": 0,
+      "acceleration": 0.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "anuraghazra/github-readme-stats",
+      "time_to_100": 1,
+      "acceleration": 1.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "louislam/uptime-kuma",
+      "time_to_100": 0,
+      "acceleration": 0.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "vitejs/vite",
+      "time_to_100": 0,
+      "acceleration": 0.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "rasbt/LLMs-from-scratch",
+      "time_to_100": 146,
+      "acceleration": 146.0,
+      "category": "gradual",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "unionlabs/union",
+      "time_to_100": 519,
+      "acceleration": 259.5,
+      "category": "gradual",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "hacksider/Deep-Live-Cam",
+      "time_to_100": 188,
+      "acceleration": 2.647887323943662,
+      "category": "gradual",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "CompVis/stable-diffusion",
+      "time_to_100": 0,
+      "acceleration": 0.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "ventoy/Ventoy",
+      "time_to_100": 17,
+      "acceleration": 3.4,
+      "category": "fast",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "abi/screenshot-to-code",
+      "time_to_100": 0,
+      "acceleration": 0.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "astral-sh/uv",
+      "time_to_100": 0,
+      "acceleration": 0.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "binary-husky/gpt_academic",
+      "time_to_100": 3,
+      "acceleration": 3.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "localsend/localsend",
+      "time_to_100": 19,
+      "acceleration": 19.0,
+      "category": "fast",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "Stirling-Tools/Stirling-PDF",
+      "time_to_100": 0,
+      "acceleration": 0.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "openai/openai-cookbook",
+      "time_to_100": 14,
+      "acceleration": 0.1794871794871795,
+      "category": "fast",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "base/node",
+      "time_to_100": 19,
+      "acceleration": 1.9,
+      "category": "fast",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "zed-industries/zed",
+      "time_to_100": 853,
+      "acceleration": 853.0,
+      "category": "gradual",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "twitter/the-algorithm",
+      "time_to_100": 0,
+      "acceleration": 0.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "lobehub/lobe-chat",
+      "time_to_100": 112,
+      "acceleration": 14.0,
+      "category": "gradual",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "infiniflow/ragflow",
+      "time_to_100": 14,
+      "acceleration": 14.0,
+      "category": "fast",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "AppFlowy-IO/AppFlowy",
+      "time_to_100": 1,
+      "acceleration": 1.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "xtekky/gpt4free",
+      "time_to_100": 17,
+      "acceleration": 5.666666666666667,
+      "category": "fast",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "dair-ai/Prompt-Engineering-Guide",
+      "time_to_100": 0,
+      "acceleration": 0.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "bradtraversy/design-resources-for-developers",
+      "time_to_100": 0,
+      "acceleration": 0.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "FuelLabs/sway",
+      "time_to_100": 477,
+      "acceleration": 6.037974683544304,
+      "category": "gradual",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "openinterpreter/open-interpreter",
+      "time_to_100": 41,
+      "acceleration": 41.0,
+      "category": "gradual",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "time_to_100": 28,
+      "acceleration": 28.0,
+      "category": "fast",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "hiyouga/LLaMA-Factory",
+      "time_to_100": 7,
+      "acceleration": 1.0,
+      "category": "fast",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "PaddlePaddle/PaddleOCR",
+      "time_to_100": 5,
+      "acceleration": 0.5,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "FoundationAgents/MetaGPT",
+      "time_to_100": 1,
+      "acceleration": 1.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "meta-llama/llama",
+      "time_to_100": 0,
+      "acceleration": 0.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "FuelLabs/fuel-core",
+      "time_to_100": 341,
+      "acceleration": 1.5642201834862386,
+      "category": "gradual",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "zylon-ai/private-gpt",
+      "time_to_100": 5,
+      "acceleration": 5.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "toeverything/AFFiNE",
+      "time_to_100": 2,
+      "acceleration": 2.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "ultralytics/yolov5",
+      "time_to_100": 2,
+      "acceleration": 2.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "AntonOsika/gpt-engineer",
+      "time_to_100": 4,
+      "acceleration": 4.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "lencx/ChatGPT",
+      "time_to_100": 1,
+      "acceleration": 0.5,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "withastro/astro",
+      "time_to_100": 59,
+      "acceleration": 59.0,
+      "category": "gradual",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "TapXWorld/ChinaTextbook",
+      "time_to_100": 1068,
+      "acceleration": 356.0,
+      "category": "gradual",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "Z4nzu/hackingtool",
+      "time_to_100": 19,
+      "acceleration": 19.0,
+      "category": "fast",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "OpenBB-finance/OpenBB",
+      "time_to_100": 0,
+      "acceleration": 0.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "facebookresearch/segment-anything",
+      "time_to_100": 0,
+      "acceleration": 0.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "pocketbase/pocketbase",
+      "time_to_100": 0,
+      "acceleration": 0.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "sickcodes/Docker-OSX",
+      "time_to_100": 0,
+      "acceleration": 0.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "microsoft/autogen",
+      "time_to_100": 27,
+      "acceleration": 27.0,
+      "category": "fast",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "WerWolv/ImHex",
+      "time_to_100": 22,
+      "acceleration": 22.0,
+      "category": "fast",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "Mintplex-Labs/anything-llm",
+      "time_to_100": 0,
+      "acceleration": 0.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "pathwaycom/pathway",
+      "time_to_100": 277,
+      "acceleration": 6.155555555555556,
+      "category": "gradual",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "AlistGo/alist",
+      "time_to_100": 3,
+      "acceleration": 0.1111111111111111,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "ultralytics/ultralytics",
+      "time_to_100": 5,
+      "acceleration": 5.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "karpathy/nanoGPT",
+      "time_to_100": 0,
+      "acceleration": 0.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "lllyasviel/Fooocus",
+      "time_to_100": 0,
+      "acceleration": 0.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "type-challenges/type-challenges",
+      "time_to_100": 40,
+      "acceleration": 40.0,
+      "category": "gradual",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "coollabsio/coolify",
+      "time_to_100": 58,
+      "acceleration": 19.333333333333332,
+      "category": "gradual",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "bigskysoftware/htmx",
+      "time_to_100": 8,
+      "acceleration": 0.7272727272727273,
+      "category": "fast",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "FlowiseAI/Flowise",
+      "time_to_100": 1,
+      "acceleration": 1.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "pathwaycom/llm-app",
+      "time_to_100": 14,
+      "acceleration": 0.2545454545454545,
+      "category": "fast",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "oobabooga/text-generation-webui",
+      "time_to_100": 34,
+      "acceleration": 1.4166666666666667,
+      "category": "gradual",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "usememos/memos",
+      "time_to_100": 84,
+      "acceleration": 1.12,
+      "category": "gradual",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "run-llama/llama_index",
+      "time_to_100": 20,
+      "acceleration": 2.857142857142857,
+      "category": "fast",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "google/zx",
+      "time_to_100": 1,
+      "acceleration": 1.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "ggml-org/whisper.cpp",
+      "time_to_100": 13,
+      "acceleration": 6.5,
+      "category": "fast",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "FuelLabs/fuels-rs",
+      "time_to_100": 552,
+      "acceleration": 552.0,
+      "category": "gradual",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "FuelLabs/fuels-ts",
+      "time_to_100": 552,
+      "acceleration": 552.0,
+      "category": "gradual",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "tldraw/tldraw",
+      "time_to_100": 20,
+      "acceleration": 20.0,
+      "category": "fast",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "microsoft/AI-For-Beginners",
+      "time_to_100": 151,
+      "acceleration": 4.71875,
+      "category": "gradual",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "time_to_100": 0,
+      "acceleration": 0.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "NaiboWang/EasySpider",
+      "time_to_100": 76,
+      "acceleration": 10.857142857142858,
+      "category": "gradual",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "tw93/Pake",
+      "time_to_100": 0,
+      "acceleration": 0.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "bevyengine/bevy",
+      "time_to_100": 74,
+      "acceleration": 74.0,
+      "category": "gradual",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "AykutSarac/jsoncrack.com",
+      "time_to_100": 41,
+      "acceleration": 10.25,
+      "category": "gradual",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "KRTirtho/spotube",
+      "time_to_100": 304,
+      "acceleration": 27.636363636363637,
+      "category": "gradual",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "SimplifyJobs/Summer2026-Internships",
+      "time_to_100": 2,
+      "acceleration": 0.07407407407407407,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "Stability-AI/stablediffusion",
+      "time_to_100": 0,
+      "acceleration": 0.0,
+      "category": "instant",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "mingrammer/diagrams",
+      "time_to_100": 7,
+      "acceleration": 7.0,
+      "category": "fast",
+      "total_stars_analyzed": 300
+    },
+    {
+      "repo": "ChrisTitusTech/winutil",
+      "time_to_100": 8,
+      "acceleration": 0.27586206896551724,
+      "category": "fast",
+      "total_stars_analyzed": 300
+    }
+  ],
+  "summary": {
+    "instant": {
+      "count": 49,
+      "avg_acceleration": 0.9976568405139834
+    },
+    "fast": {
+      "count": 24,
+      "avg_acceleration": 10.148752827632139
+    },
+    "gradual": {
+      "count": 27,
+      "avg_acceleration": 121.32945524979603
+    }
+  }
+}

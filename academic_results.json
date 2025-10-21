@@ -1,0 +1,3273 @@
+{
+  "total_papers": 363,
+  "collection_date": "2025-10-08T09:07:56.238852",
+  "papers": [
+    {
+      "paper_id": "bc00ff34ec7772080c7039b17f7069a2f7df0889",
+      "title": "Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 6765,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "c292e473b3825eeb9db03c70b2e1c033aea190d5",
+      "title": "Machine learning for molecular and materials science",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 3154,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "f86f1748d1b6d22870f4347fd5d65314ba800583",
+      "title": "Reconciling modern machine-learning practice and the classical bias\u2013variance trade-off",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 1761,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "caf9e0fa2c340fb07cef8d547ea8849508e5c358",
+      "title": "Empirical Asset Pricing Via Machine Learning",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 1611,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "6e23398447a022fb9495c44fa80e9de593a574bc",
+      "title": "Machine Learning in Agriculture: A Review",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 2013,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "5c7e5248d9eb7f373f10277410bf8506160907ea",
+      "title": "All-optical machine learning using diffractive deep neural networks",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 1824,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "b3de1062d8a462dfdc2938558258f8884abe9f4e",
+      "title": "Implementation of machine-learning classification in remote sensing: an applied review",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 1477,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "53eef24a59b12107e6188e121c85f85fa8a78100",
+      "title": "Explainable machine-learning predictions for the prevention of hypoxaemia during surgery",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 1466,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "ff8eea01cbb5de505672cf9bbda3a6a91624cf52",
+      "title": "Quantum Machine Learning",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 1972,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "1b9c68de8212a2255b06074bcb94682fed170537",
+      "title": "Machine Learning Identifies Stemness Features Associated with Oncogenic Dedifferentiation.",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 1667,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "d7701e78e0bfc92b03a89582e80cfb751ac03f26",
+      "title": "Explaining Explanations: An Overview of Interpretability of Machine Learning",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 1939,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "7e7eb0f93c9550d7336f4bbfad5fe89604295705",
+      "title": "Quantum Machine Learning in Feature Hilbert Spaces.",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 1213,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "a68fccc152d238f62848de1be8522ccd71137ac0",
+      "title": "ML-Leaks: Model and Data Independent Membership Inference Attacks and Defenses on Machine Learning Models",
+      "pub_year": 2018,
+      "year_1_citations": 68,
+      "total_citations": 1000,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "7e152e587fbc73b5bd23048c71c1b36c569416c5",
+      "title": "EMBER: An Open Dataset for Training Static PE Malware Machine Learning Models",
+      "pub_year": 2018,
+      "year_1_citations": 36,
+      "total_citations": 506,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "d8b65198c37ada92cada81fe315508fc5bdbab8f",
+      "title": "Graph Networks as a Universal Machine Learning Framework for Molecules and Crystals",
+      "pub_year": 2018,
+      "year_1_citations": 23,
+      "total_citations": 1082,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "1772cb98a2218793ea08bd46d9ebe6a88d9f8580",
+      "title": "Improving Fairness in Machine Learning Systems: What Do Industry Practitioners Need?",
+      "pub_year": 2018,
+      "year_1_citations": 43,
+      "total_citations": 833,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "3df952d4a724655f7520ff95d4b2cef90fff0cae",
+      "title": "Techniques for interpretable machine learning",
+      "pub_year": 2018,
+      "year_1_citations": 57,
+      "total_citations": 1136,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "2b27bc25ae40a32a63945be35752364ade6e6417",
+      "title": "Flood Prediction Using Machine Learning Models: Literature Review",
+      "pub_year": 2018,
+      "year_1_citations": 72,
+      "total_citations": 1125,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "efd7b7aafeb83b8a8d6fd90a35d6fb6a62f5f695",
+      "title": "Manipulating Machine Learning: Poisoning Attacks and Countermeasures for Regression Learning",
+      "pub_year": 2018,
+      "year_1_citations": 93,
+      "total_citations": 800,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "400081ba358663ca24365044e5e818638c439e1d",
+      "title": "Machine Learning DDoS Detection for Consumer Internet of Things Devices",
+      "pub_year": 2018,
+      "year_1_citations": 71,
+      "total_citations": 617,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "161ce338538f94b0b9be51ae2336db0aa4b012e5",
+      "title": "Potential Biases in Machine Learning Algorithms Using Electronic Health Record Data",
+      "pub_year": 2018,
+      "year_1_citations": 44,
+      "total_citations": 1025,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "fa9906b466bbbff3a8c206b499cd34323a91d1b2",
+      "title": "Points of Significance: Statistics versus machine learning",
+      "pub_year": 2018,
+      "year_1_citations": 74,
+      "total_citations": 964,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "015562837d3bf7fbdfbaccb43eadc6981ee5e35e",
+      "title": "Communication-Efficient On-Device Machine Learning: Federated Distillation and Augmentation under Non-IID Private Data",
+      "pub_year": 2018,
+      "year_1_citations": 31,
+      "total_citations": 641,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "5327bb691a1c63791a06de2d3f0478e47785add5",
+      "title": "Predicting Diabetes Mellitus With Machine Learning Techniques",
+      "pub_year": 2018,
+      "year_1_citations": 42,
+      "total_citations": 693,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "eef183687fab4d762a381f2e80e357e08e923f0a",
+      "title": "Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning",
+      "pub_year": 2018,
+      "year_1_citations": 44,
+      "total_citations": 839,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "adade3149b2a6177296de352f003471eefa958b8",
+      "title": "The Impact of Machine Learning on Economics",
+      "pub_year": 2018,
+      "year_1_citations": 99,
+      "total_citations": 444,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "39361b3507c9f8b0a97780568b645f80a208d78a",
+      "title": "Machine Learning and Deep Learning Methods for Cybersecurity",
+      "pub_year": 2018,
+      "year_1_citations": 70,
+      "total_citations": 832,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "88a97c8ef539589c55a6fe869c243792e470d6a3",
+      "title": "Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective",
+      "pub_year": 2018,
+      "year_1_citations": 131,
+      "total_citations": 578,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "4f2baff3195b6fc43a38e3e869496dab9fe9dbc3",
+      "title": "Delayed Impact of Fair Machine Learning",
+      "pub_year": 2018,
+      "year_1_citations": 111,
+      "total_citations": 491,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "82a5a84528a7ca0409f75e2211a3b33a217e9bac",
+      "title": "Ensuring Fairness in Machine Learning to Advance Health Equity",
+      "pub_year": 2018,
+      "year_1_citations": 24,
+      "total_citations": 706,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "f2e79452aef17bc27ceb72aa9382db74c0fe827b",
+      "title": "MLxtend: Providing machine learning and data science utilities and extensions to Python's scientific computing stack",
+      "pub_year": 2018,
+      "year_1_citations": 47,
+      "total_citations": 547,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "220bb101e07c08bb154721b2376a8b8993c45db3",
+      "title": "Significant Permission Identification for Machine-Learning-Based Android Malware Detection",
+      "pub_year": 2018,
+      "year_1_citations": 123,
+      "total_citations": 480,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "a44f2ad10815051142c97fb466c51c8c9eda1d7f",
+      "title": "Predicting reaction performance in C\u2013N cross-coupling using machine learning",
+      "pub_year": 2018,
+      "year_1_citations": 109,
+      "total_citations": 719,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "0090023afc66cd2741568599057f4e82b566137c",
+      "title": "A Survey on Bias and Fairness in Machine Learning",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 4797,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "b0c34618ffd1154f35863e2ce7250ac6b6f2c424",
+      "title": "Interpretable Machine Learning",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 2692,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "5d433da6d0f143f20936379910104d2bb139d4ae",
+      "title": "ilastik: interactive machine learning for (bio)image analysis",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 2444,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "62ccd99a65bfc7c735ae1f33b75b107665de95df",
+      "title": "Federated Machine Learning",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 2508,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "4087e84fc695bb6433d0104ee94f9d7e9f4b7da5",
+      "title": "Machine Learning for Fluid Mechanics",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 2279,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "eb9e0da8b7170e3ca4364f2f9010599c2d2556f1",
+      "title": "Machine Learning With Python",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 2137,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "b631ba962b4403a9c0fd9cce446ef3b1e21ea059",
+      "title": "Aleatoric and epistemic uncertainty in machine learning: an introduction to concepts and methods",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 1588,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "b9518627db25f05930e931f56497602363a75491",
+      "title": "Definitions, methods, and applications in interpretable machine learning",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 1527,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "e24b8a9531573d284647239affc6c855505b0de4",
+      "title": "Adversarial machine learning",
+      "pub_year": 2019,
+      "year_1_citations": 355,
+      "total_citations": 1478,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "46c266b3d1274dacd7fce27ee8cb4d587f087a58",
+      "title": "Machine Learning Interpretability: A Survey on Methods and Metrics",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 1425,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "a9cbbef8f4426329d0687025b34287c35bdd8b38",
+      "title": "Machine learning and the physical sciences",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 1630,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "b5904cd5dbf73b8d5ff13517de490c292d877ee0",
+      "title": "Applications of machine learning in drug discovery and development",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 1945,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "21dfbc88b21b27fe8a245ab1df98edd45f655ae7",
+      "title": "Machine Learning in Medicine",
+      "pub_year": 2019,
+      "year_1_citations": 118,
+      "total_citations": 1272,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "b55e490637babd50dab3cdaaa3a60a2be6eb1cbb",
+      "title": "Automated Machine Learning - Methods, Systems, Challenges",
+      "pub_year": 2019,
+      "year_1_citations": 177,
+      "total_citations": 1257,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "c2413fa296543159b32d16350d9e29f7db528790",
+      "title": "Explaining machine learning classifiers through diverse counterfactual explanations",
+      "pub_year": 2019,
+      "year_1_citations": 71,
+      "total_citations": 1106,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "c8ac6060d34179871b81ecd19621c63360347f8e",
+      "title": "Comparing different supervised machine learning algorithms for disease prediction",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 1186,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "649dd1fcd3f375ccd1a485af88b3dd8d0d289ee6",
+      "title": "A systematic review shows no performance benefit of machine learning over logistic regression for clinical prediction models.",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 1334,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "3c8a456509e6c0805354bd40a35e3f2dbf8069b1",
+      "title": "PyTorch: An Imperative Style, High-Performance Deep Learning Library",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 45086,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "2bac6b71d252f93c4841e325ca111f2752109931",
+      "title": "Certified Data Removal from Machine Learning Models",
+      "pub_year": 2019,
+      "year_1_citations": 24,
+      "total_citations": 509,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "638e41912f314c74436205aa8d332dca963ab1dc",
+      "title": "Parameterized quantum circuits as machine learning models",
+      "pub_year": 2019,
+      "year_1_citations": 106,
+      "total_citations": 990,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "b3ea2d9c8e5ea3b87ace121f0bece71565abc187",
+      "title": "Quantifying the Carbon Emissions of Machine Learning",
+      "pub_year": 2019,
+      "year_1_citations": 32,
+      "total_citations": 765,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "218062f45c15f39bc8f4fb2c930ddf20b5809b11",
+      "title": "Machine Learning Testing: Survey, Landscapes and Horizons",
+      "pub_year": 2019,
+      "year_1_citations": 116,
+      "total_citations": 782,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "dd0de3977cccff806944d5dc28e053fcd8fdda52",
+      "title": "Scaling Distributed Machine Learning with In-Network Aggregation",
+      "pub_year": 2019,
+      "year_1_citations": 54,
+      "total_citations": 457,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "eeaedfddff1e377e4eabaeb0e45cab4e9e5d6f65",
+      "title": "Machine Learning at the Wireless Edge: Distributed Stochastic Gradient Descent Over-the-Air",
+      "pub_year": 2019,
+      "year_1_citations": 119,
+      "total_citations": 532,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "206261db1196e4e391ca42077f6fca6b3ece34d0",
+      "title": "The Non-IID Data Quagmire of Decentralized Machine Learning",
+      "pub_year": 2019,
+      "year_1_citations": 45,
+      "total_citations": 603,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "8f8542a6aa8c76e8a4441d1ca722e230aa5d6c9e",
+      "title": "Evaluating Differentially Private Machine Learning in Practice",
+      "pub_year": 2019,
+      "year_1_citations": 102,
+      "total_citations": 528,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "60baa46784e8e9a30a57e1875907d008fbdc817b",
+      "title": "InterpretML: A Unified Framework for Machine Learning Interpretability",
+      "pub_year": 2019,
+      "year_1_citations": 56,
+      "total_citations": 509,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "d74bdbc0bce8ff90e815c74368cdac49b0eb4185",
+      "title": "PUMA: A Programmable Ultra-efficient Memristor-based Accelerator for Machine Learning Inference",
+      "pub_year": 2019,
+      "year_1_citations": 85,
+      "total_citations": 419,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "790985a4bee821046992ff3d5322ff11dd1b4262",
+      "title": "Coresets for Data-efficient Training of Machine Learning Models",
+      "pub_year": 2019,
+      "year_1_citations": 3,
+      "total_citations": 396,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "5d093bd376ba63495ea442241bc8bc2f0ff30c2b",
+      "title": "Machine learning in medicine: a practical introduction",
+      "pub_year": 2019,
+      "year_1_citations": 91,
+      "total_citations": 913,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "998039a4876edc440e0cabb0bc42239b0eb29644",
+      "title": "Tackling Climate Change with Machine Learning",
+      "pub_year": 2019,
+      "year_1_citations": 32,
+      "total_citations": 881,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "e67121cd31e95fba6c892724e619323ad7564b03",
+      "title": "A Survey of Deep Learning and Its Applications: A New Paradigm to Machine Learning",
+      "pub_year": 2019,
+      "year_1_citations": 46,
+      "total_citations": 909,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "d2a595c5efb4b26245c4353d5d85cbe6c7ecac0f",
+      "title": "Machine learning for data-driven discovery in solid Earth geoscience",
+      "pub_year": 2019,
+      "year_1_citations": 125,
+      "total_citations": 858,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "6a2efd7e59ec314e29850e744be05eb65ccdfbc4",
+      "title": "Making AI Forget You: Data Deletion in Machine Learning",
+      "pub_year": 2019,
+      "year_1_citations": 39,
+      "total_citations": 534,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "d75356e2bf674902a06a14bb55d18ee88af5b4bb",
+      "title": "Machine Learning Methods That Economists Should Know About",
+      "pub_year": 2019,
+      "year_1_citations": 135,
+      "total_citations": 716,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "2b49156cf855dbb39768ae0ba7d7cb9263d17e5c",
+      "title": "Informed Machine Learning \u2013 A Taxonomy and Survey of Integrating Prior Knowledge into Learning Systems",
+      "pub_year": 2019,
+      "year_1_citations": 10,
+      "total_citations": 693,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "236dfdeb4511754cf71ba220ac569b11973502cd",
+      "title": "Machine Learning and Deep Learning Methods for Intrusion Detection Systems: A Survey",
+      "pub_year": 2019,
+      "year_1_citations": 40,
+      "total_citations": 783,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "23bae60509630acda34cb1811125de3a0cb86cd7",
+      "title": "Machine Learning and Deep Learning frameworks and libraries for large-scale data mining: a survey",
+      "pub_year": 2019,
+      "year_1_citations": 103,
+      "total_citations": 685,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "597bd2e45427563cdf025e53a3239006aa364cfc",
+      "title": "Open Graph Benchmark: Datasets for Machine Learning on Graphs",
+      "pub_year": 2020,
+      "year_1_citations": 0,
+      "total_citations": 2943,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "f156ecbbb9243522275490d698c6825f4d2e01af",
+      "title": "Explainable AI: A Review of Machine Learning Interpretability Methods",
+      "pub_year": 2020,
+      "year_1_citations": 0,
+      "total_citations": 2139,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "7ae2783a9196fb4bc2a610ae812d19722daddce5",
+      "title": "Applications of machine learning to machine fault diagnosis: A review and roadmap",
+      "pub_year": 2020,
+      "year_1_citations": 0,
+      "total_citations": 2041,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "57e6cca1479a4642f867e69b4dee93d14259dc3d",
+      "title": "Power of data in quantum machine learning",
+      "pub_year": 2020,
+      "year_1_citations": 94,
+      "total_citations": 740,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "c5c4142a01981787a71bf6ebcb791520c458ab5d",
+      "title": "FedML: A Research Library and Benchmark for Federated Machine Learning",
+      "pub_year": 2020,
+      "year_1_citations": 120,
+      "total_citations": 602,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "fd6e4d74b8df1eed41a0915c5d760fe3cfa58278",
+      "title": "Systematic Evaluation of Privacy Risks of Machine Learning Models",
+      "pub_year": 2020,
+      "year_1_citations": 50,
+      "total_citations": 413,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "696b388ee6221c6dbcfd647a06883b2bfee773d9",
+      "title": "Universal Differential Equations for Scientific Machine Learning",
+      "pub_year": 2020,
+      "year_1_citations": 204,
+      "total_citations": 636,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "fee8f63972906214b77f16cfeca0b93ee8f36ba2",
+      "title": "Fairness in Machine Learning: A Survey",
+      "pub_year": 2020,
+      "year_1_citations": 48,
+      "total_citations": 716,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "e6b733b960cc1800487203af61de1c58b6299d5a",
+      "title": "Heart Disease Prediction using Machine Learning Techniques",
+      "pub_year": 2020,
+      "year_1_citations": 37,
+      "total_citations": 660,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "9fd1684e6d163c89bd2b2887ab1b21b89ad10137",
+      "title": "TensorFlow Lite Micro: Embedded Machine Learning on TinyML Systems",
+      "pub_year": 2020,
+      "year_1_citations": 59,
+      "total_citations": 519,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "22cba8f244258e0bba7ff4bb70c4e5b5ac3e2382",
+      "title": "H2O AutoML: Scalable Automatic Machine Learning",
+      "pub_year": 2020,
+      "year_1_citations": 56,
+      "total_citations": 449,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "6068d39e92aef1bb0e1291e9931894c35692a85e",
+      "title": "Counterfactual Explanations for Machine Learning: A Review",
+      "pub_year": 2020,
+      "year_1_citations": 107,
+      "total_citations": 430,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "e64579d8593140396b518682bb3a47ba246684eb",
+      "title": "Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone",
+      "pub_year": 2020,
+      "year_1_citations": 107,
+      "total_citations": 451,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "a1f57b760b7d4c44490f0bb86ee5462c3e7c7272",
+      "title": "Machine Learning Force Fields",
+      "pub_year": 2020,
+      "year_1_citations": 89,
+      "total_citations": 1033,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "74b4f16c5ac91e3e7c88ae81cc8c91416b71d151",
+      "title": "Towards the Systematic Reporting of the Energy and Carbon Footprints of Machine Learning",
+      "pub_year": 2020,
+      "year_1_citations": 86,
+      "total_citations": 499,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "20438e2a38a0c4723fbd9de50b44b7335f6f43cb",
+      "title": "ADAHESSIAN: An Adaptive Second Order Optimizer for Machine Learning",
+      "pub_year": 2020,
+      "year_1_citations": 49,
+      "total_citations": 309,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "a3a4dc32aa5ad355fb1e512a67baaed8102ed551",
+      "title": "Accelerated discovery of CO2 electrocatalysts using active machine learning",
+      "pub_year": 2020,
+      "year_1_citations": 183,
+      "total_citations": 1030,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "ab2e4ca081ef195a7bd3a95f1771b73e2880d913",
+      "title": "Effect of data encoding on the expressive power of variational quantum-machine-learning models",
+      "pub_year": 2020,
+      "year_1_citations": 70,
+      "total_citations": 585,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "598658595e887f677967769ed11ba28158f6ea8a",
+      "title": "Neural Additive Models: Interpretable Machine Learning with Neural Nets",
+      "pub_year": 2020,
+      "year_1_citations": 76,
+      "total_citations": 463,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "fb7caddac20dca012f48c90b2e1e2383f7185051",
+      "title": "Interpreting Interpretability: Understanding Data Scientists' Use of Interpretability Tools for Machine Learning",
+      "pub_year": 2020,
+      "year_1_citations": 144,
+      "total_citations": 509,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "0352ab40731384f97a7211757981a1fb20a6abd5",
+      "title": "A rigorous and robust quantum speed-up in supervised machine learning",
+      "pub_year": 2020,
+      "year_1_citations": 74,
+      "total_citations": 606,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "ede0a8039a561905f40777ec2ae66c2010e3f2bc",
+      "title": "Cybersecurity data science: an overview from machine learning perspective",
+      "pub_year": 2020,
+      "year_1_citations": 86,
+      "total_citations": 488,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "bd20055d314fa7ffbee9d702dfd5e4fd99257c62",
+      "title": "Measuring Corporate Culture Using Machine Learning",
+      "pub_year": 2020,
+      "year_1_citations": 69,
+      "total_citations": 493,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "4a7eea3ec3080ecb277bfe466afce4822a1071d7",
+      "title": "Quantum embeddings for machine learning",
+      "pub_year": 2020,
+      "year_1_citations": 103,
+      "total_citations": 366,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "025e77d28d5554d2e49de25f047f1a93341d0766",
+      "title": "fastMRI: A Publicly Available Raw k-Space and DICOM Dataset of Knee Images for Accelerated MR Image Reconstruction Using Machine Learning.",
+      "pub_year": 2020,
+      "year_1_citations": 62,
+      "total_citations": 407,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "71a85e735a3686bef8cce3725ae5ba82e2cabb1b",
+      "title": "Underspecification Presents Challenges for Credibility in Modern Machine Learning",
+      "pub_year": 2020,
+      "year_1_citations": 203,
+      "total_citations": 727,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "4f97e87512eb8bf48ce695443e958725c54908b6",
+      "title": "Mathematics for Machine Learning",
+      "pub_year": 2020,
+      "year_1_citations": 112,
+      "total_citations": 475,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "c48e2b6da0383e5602d883ca6b42354aea06e882",
+      "title": "First-order and Stochastic Optimization Methods for Machine Learning",
+      "pub_year": 2020,
+      "year_1_citations": 74,
+      "total_citations": 384,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "5e34d633a076f9df0227f8e2e05cfd76e33f2960",
+      "title": "Early prediction of circulatory failure in the intensive care unit using machine learning",
+      "pub_year": 2020,
+      "year_1_citations": 77,
+      "total_citations": 344,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "26d11d2eab9b9842130e1fef2ce6f6e22324556d",
+      "title": "Coronavirus (Covid-19) Classification Using CT Images by Machine Learning Methods",
+      "pub_year": 2020,
+      "year_1_citations": 185,
+      "total_citations": 338,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "d1e701665e73faa648cb15473952576f40e8e122",
+      "title": "The Machine\u2010Learning Approach",
+      "pub_year": 2020,
+      "year_1_citations": 213,
+      "total_citations": 549,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "5fb1ddd3c37597138795e7b0f0c3641239cf21f7",
+      "title": "Machine Learning in Predictive Maintenance towards Sustainable Smart Manufacturing in Industry 4.0",
+      "pub_year": 2020,
+      "year_1_citations": 57,
+      "total_citations": 540,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "99afa67e28780754907b19b688bf2b35eb22e578",
+      "title": "A Review on Linear Regression Comprehensive in Machine Learning",
+      "pub_year": 2020,
+      "year_1_citations": 17,
+      "total_citations": 860,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "cbff26682ca59509b58b350a955978974d967a60",
+      "title": "Closed-loop optimization of fast-charging protocols for batteries with machine learning",
+      "pub_year": 2020,
+      "year_1_citations": 143,
+      "total_citations": 756,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "b5b98051b65da6b1b3b579862b0407d48c5bef48",
+      "title": "Principles and Practice of Explainable Machine Learning",
+      "pub_year": 2020,
+      "year_1_citations": 47,
+      "total_citations": 487,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "6001895c2fcf69528d01306e9d293d9d2a4cc67b",
+      "title": "DeepLabCut: markerless pose estimation of user-defined body parts with deep learning",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 3560,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "364128bcce9836d60e685bb717b80f30e25092e0",
+      "title": "Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 3839,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "b79e5e4622a95417deec313cd543617b19611bea",
+      "title": "Deep Learning using Rectified Linear Units (ReLU)",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 3379,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "1c2efb418f79b5d29913e014a1dfd78865221c39",
+      "title": "Deep learning for time series classification: a review",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 2846,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "ca011427853d34ce4ec9ccafde8a70c9eacc3e21",
+      "title": "Deep Learning for Computer Vision: A Brief Review",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 2947,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "811df72e210e20de99719539505da54762a11c6d",
+      "title": "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 9121,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "518a7c79968a56d63a691d42f8378be6c776167e",
+      "title": "Deep learning in agriculture: A survey",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 3225,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "7536bce1007a765fd097a7cc8ea62208a8c89b85",
+      "title": "Deep Learning for Generic Object Detection: A Survey",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 2536,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "b2d952fbd6951cbed68ea13003a045300970731a",
+      "title": "Clinically applicable deep learning for diagnosis and referral in retinal disease",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 2125,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "c468bbde6a22d961829e1970e6ad5795e05418d1",
+      "title": "The Unreasonable Effectiveness of Deep Features as a Perceptual Metric",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 13354,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "ec3071fb918ad69ec80df1ca9cf1fdeb386a9603",
+      "title": "TVM: An Automated End-to-End Optimizing Compiler for Deep Learning",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 1554,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "3f611458b84ca8756c863916b33d12c704687127",
+      "title": "Deep learning models for plant disease detection and diagnosis",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 2216,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "18056fcac6fc744b940a8d10ff36d42269006f3c",
+      "title": "Spectral\u2013Spatial Residual Network for Hyperspectral Image Classification: A 3-D Deep Learning Framework",
+      "pub_year": 2018,
+      "year_1_citations": 116,
+      "total_citations": 1375,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "769149c0dc0ed308eca8bc916f4326b2e2f57a1f",
+      "title": "Classification and mutation prediction from non\u2013small cell lung cancer histopathology images using deep learning",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 2198,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "9406246f6972c03e5bfaac4df4676648dc4ac935",
+      "title": "Deep Learning Techniques for Automatic MRI Cardiac Multi-Structures Segmentation and Diagnosis: Is the Problem Solved?",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 1728,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "fd9541fe4317904b9a0637b6505fb0bea0979491",
+      "title": "Comprehensive Privacy Analysis of Deep Learning: Passive and Active White-box Inference Attacks against Centralized and Federated Learning",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 1546,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "d81fc968196e06ccafd7ea4c008b13e1cad1be64",
+      "title": "An End-to-End Deep Learning Architecture for Graph Classification",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 1604,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "c5420ef59d7508d82e53671b0d623027eb58e6ed",
+      "title": "Learning to Reweight Examples for Robust Deep Learning",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 1470,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "e2c8726d092aea573e69f5b0a2654225883cfacf",
+      "title": "Horovod: fast and easy distributed deep learning in TensorFlow",
+      "pub_year": 2018,
+      "year_1_citations": 103,
+      "total_citations": 1270,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "b514949ad8344071c0f342f182390d2d88bcc26d",
+      "title": "Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 1923,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "cc145f046788029322835979a14459652da7247e",
+      "title": "This looks like that: deep learning for interpretable image recognition",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 1267,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "530a4ab0308bc98995ffd64207135ca0ae36db7f",
+      "title": "Privacy-Preserving Deep Learning via Additively Homomorphic Encryption",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 1434,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "2b91a2cbcd9cce902cbc8da78fec5f18f4bffc98",
+      "title": "Deep learning for sentiment analysis: A survey",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 1692,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "ca235ce0decdb4f80024a429a20ae4437ceae09e",
+      "title": "ArcFace: Additive Angular Margin Loss for Deep Face Recognition",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 6550,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "594a91fe54eb44f0e5fffd35ab015a8456419d11",
+      "title": "Activation Functions: Comparison of trends in Practice and Research for Deep Learning",
+      "pub_year": 2018,
+      "year_1_citations": 16,
+      "total_citations": 1304,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "77cec64cdf0581ff4e7b70aa595a4d6e39b70ce4",
+      "title": "Keras: The Python Deep Learning library",
+      "pub_year": 2018,
+      "year_1_citations": 202,
+      "total_citations": 1408,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "138fafc2d679bc6446ff74f55dfd316b0d5674b9",
+      "title": "Evidential Deep Learning to Quantify Classification Uncertainty",
+      "pub_year": 2018,
+      "year_1_citations": 41,
+      "total_citations": 1108,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "8a5d0579590465494c9aba58a857af43b190b6a6",
+      "title": "Deep Learning in Mobile and Wireless Networking: A Survey",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 1358,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "78f7c6818c97383b5ae4b61664ffc6cde7974466",
+      "title": "A Deep Learning Approach to Network Intrusion Detection",
+      "pub_year": 2018,
+      "year_1_citations": 119,
+      "total_citations": 1199,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "0ebc300c16f01a4e94c8551997922fdb67ac1951",
+      "title": "An overview of deep learning in medical imaging focusing on MRI",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 1724,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "00c4632d2d926acabc18574c9c5b870709ae9450",
+      "title": "Learning IoT in Edge: Deep Learning for the Internet of Things with Edge Computing",
+      "pub_year": 2018,
+      "year_1_citations": 105,
+      "total_citations": 1318,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "af3825437b627db1a99f946f7aa773ba8b03befd",
+      "title": "Learning deep representations by mutual information estimation and maximization",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 2747,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "546785490ac417be1f83ced6a8272e934934f411",
+      "title": "Man against machine: diagnostic performance of a deep learning convolutional neural network for dermoscopic melanoma recognition in comparison to 58 dermatologists",
+      "pub_year": 2018,
+      "year_1_citations": 105,
+      "total_citations": 1250,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "fa12574c228542151ccd7d4e3f42cc4896cd274a",
+      "title": "Black-Box Generation of Adversarial Text Sequences to Evade Deep Learning Classifiers",
+      "pub_year": 2018,
+      "year_1_citations": 59,
+      "total_citations": 755,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "354923bc917ac774438a048b87db9fabed4d757e",
+      "title": "Deep learning for smart manufacturing: Methods and applications",
+      "pub_year": 2018,
+      "year_1_citations": 31,
+      "total_citations": 1337,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "3136a798a0bf31e6e924eb2f78a90f71d089ca4a",
+      "title": "Deep Fingerprinting: Undermining Website Fingerprinting Defenses with Deep Learning",
+      "pub_year": 2018,
+      "year_1_citations": 36,
+      "total_citations": 505,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "9235d511dea04aa563a577ab236506b8eb8242ff",
+      "title": "A Survey on Deep Transfer Learning",
+      "pub_year": 2018,
+      "year_1_citations": 0,
+      "total_citations": 2652,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "b57e6468740d9320f3f14c6079168b8e21366416",
+      "title": "The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches",
+      "pub_year": 2018,
+      "year_1_citations": 130,
+      "total_citations": 908,
+      "venue": "Unknown",
+      "age_years": 7
+    },
+    {
+      "paper_id": "3c8a456509e6c0805354bd40a35e3f2dbf8069b1",
+      "title": "PyTorch: An Imperative Style, High-Performance Deep Learning Library",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 45093,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "b2114228411d367cfa6ca091008291f250a2c490",
+      "title": "Deep learning and process understanding for data-driven Earth system science",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 3440,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "44e1dd74f0446ec91221189ad3a65edb1a0208fe",
+      "title": "A guide to deep learning in healthcare",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 3108,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "6303bac53abd725c3b458190a6abe389a4a1e72d",
+      "title": "Deep High-Resolution Representation Learning for Human Pose Estimation",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 4283,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "f9163156eeba67762a7441db48fe6720106137cd",
+      "title": "Survey on deep learning with class imbalance",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 2260,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "a2e667e4382aaa8e02a17d0522c1a910790ab65b",
+      "title": "Deep Learning for Anomaly Detection: A Survey",
+      "pub_year": 2019,
+      "year_1_citations": 22,
+      "total_citations": 1559,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "45aa47293d70bbed4d93725ed9858bf6dfcd81a1",
+      "title": "End-to-end lung cancer screening with three-dimensional deep learning on low-dose chest computed tomography",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 1549,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "1ed33896e82cc3810b349cdffc2039f0b8edd82e",
+      "title": "Deep learning and its applications to machine health monitoring",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 2059,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "f49f37c23158f8b698545e6f0a25877b39601ce8",
+      "title": "Review of Deep Learning Algorithms and Architectures",
+      "pub_year": 2019,
+      "year_1_citations": 17,
+      "total_citations": 1317,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "8dd53f10ca5fa14faeed2bd2951d247f1ac60f40",
+      "title": "A State-of-the-Art Survey on Deep Learning Theory and Architectures",
+      "pub_year": 2019,
+      "year_1_citations": 54,
+      "total_citations": 1330,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "7f002c2059f0714b5423f084913e54a50fe1ac58",
+      "title": "Deep learning for electroencephalogram (EEG) classification tasks: a review",
+      "pub_year": 2019,
+      "year_1_citations": 59,
+      "total_citations": 1246,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "a595767fa35bcc84362f629fbc4d2d9b05d7342a",
+      "title": "A survey of deep learning techniques for autonomous driving",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 1489,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "40f56e1c57bdefb22a8b4a635ea40f7d37c72d27",
+      "title": "Deep Learning Techniques for Medical Image Segmentation: Achievements and Challenges",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 1378,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "2d0fd6eb86f2378262f2c2767e1362fc6a2e27fa",
+      "title": "Deep learning in remote sensing applications: A meta-analysis and review",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 1637,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "9c6eca31f311eae935e84efa6966c0165bc4e14a",
+      "title": "ResUNet-a: a deep learning framework for semantic segmentation of remotely sensed data",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 1479,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "d05d86db86a4ac0d95e6dcd951b42a9651939793",
+      "title": "Deep Learning Approach for Intelligent Intrusion Detection System",
+      "pub_year": 2019,
+      "year_1_citations": 150,
+      "total_citations": 1197,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "36aa6c01c9683783499395953c6bc856d6101feb",
+      "title": "A Simple Baseline for Bayesian Uncertainty in Deep Learning",
+      "pub_year": 2019,
+      "year_1_citations": 165,
+      "total_citations": 855,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "6e13e111e85d499d781386b182fd855fbb053771",
+      "title": "Deep Learning Recommendation Model for Personalization and Recommendation Systems",
+      "pub_year": 2019,
+      "year_1_citations": 87,
+      "total_citations": 774,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "bc789aef715498e79a74f857fa090ece9e383bf1",
+      "title": "Large Batch Optimization for Deep Learning: Training BERT in 76 minutes",
+      "pub_year": 2019,
+      "year_1_citations": 129,
+      "total_citations": 1050,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "fcc663a781ce0b5a5bb958a0ca80f718bc6cdab5",
+      "title": "KonIQ-10k: An Ecologically Valid Database for Deep Learning of Blind Image Quality Assessment",
+      "pub_year": 2019,
+      "year_1_citations": 32,
+      "total_citations": 639,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "5027a03ff0330ae12db99c30db9e1fe907af6faf",
+      "title": "Deep learning for multi-year ENSO forecasts",
+      "pub_year": 2019,
+      "year_1_citations": 67,
+      "total_citations": 928,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "5812dae376cc07b955244a8e1ce11c3e4b9775ac",
+      "title": "Provably Robust Deep Learning via Adversarially Trained Smoothed Classifiers",
+      "pub_year": 2019,
+      "year_1_citations": 148,
+      "total_citations": 570,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "dfbeb3ca7a01fe80c49b76baa50bf092f71eef4a",
+      "title": "A Survey of Deep Learning-Based Object Detection",
+      "pub_year": 2019,
+      "year_1_citations": 130,
+      "total_citations": 1008,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "23569428fea624f07bf4cac88c3da263404b2c21",
+      "title": "Enabling Large Intelligent Surfaces With Compressive Sensing and Deep Learning",
+      "pub_year": 2019,
+      "year_1_citations": 167,
+      "total_citations": 653,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "82b46dd7c67b17dfc34b10b4e7db6f8391cd4886",
+      "title": "Deep Learning for Segmentation Using an Open Large-Scale Dataset in 2D Echocardiography",
+      "pub_year": 2019,
+      "year_1_citations": 66,
+      "total_citations": 573,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "8efd76fafff43a1b420f8cda092a8bab8d545732",
+      "title": "Simba: Scaling Deep-Learning Inference with Multi-Chip-Module-Based Architecture",
+      "pub_year": 2019,
+      "year_1_citations": 34,
+      "total_citations": 400,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "2eb1ed9d4baf548391d8220c0a8a3d0be79845ed",
+      "title": "Boltzmann generators: Sampling equilibrium states of many-body systems with deep learning",
+      "pub_year": 2019,
+      "year_1_citations": 132,
+      "total_citations": 696,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "88b8774fc6e072d3c29b874cbaa66ed225014970",
+      "title": "Deep-Learning Schemes for Full-Wave Nonlinear Inverse Scattering Problems",
+      "pub_year": 2019,
+      "year_1_citations": 83,
+      "total_citations": 394,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "0e1f153576c7f9f2628cdd34a1067c4d26bdc096",
+      "title": "Explainable AI: Interpreting, Explaining and Visualizing Deep Learning",
+      "pub_year": 2019,
+      "year_1_citations": 159,
+      "total_citations": 1150,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "a4eb7cc590b65e6be34fb74a4568d661385f28a2",
+      "title": "Predicting survival from colorectal cancer histology slides using deep learning: A retrospective multicenter study",
+      "pub_year": 2019,
+      "year_1_citations": 110,
+      "total_citations": 871,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "f95bfe6f2ad14f3b1eaeea5e1e7e411ca59a2ad5",
+      "title": "An Efficient Deep Learning Approach to Pneumonia Classification in Healthcare",
+      "pub_year": 2019,
+      "year_1_citations": 87,
+      "total_citations": 504,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "8d2d560bf1c4c6930d2d1411e48b642bd5b81179",
+      "title": "Tiresias: A GPU Cluster Manager for Distributed Deep Learning",
+      "pub_year": 2019,
+      "year_1_citations": 69,
+      "total_citations": 365,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "4f2d4e821dd03ac5df7d5448948bc738aefdd6db",
+      "title": "Deep Learning With Edge Computing: A Review",
+      "pub_year": 2019,
+      "year_1_citations": 123,
+      "total_citations": 1072,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "f28e387d4229c5f690ce4570a391c0f47e7155c7",
+      "title": "nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation",
+      "pub_year": 2020,
+      "year_1_citations": 0,
+      "total_citations": 6329,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "f14fc9e399d44463a17cc47a9b339b58f6ef7502",
+      "title": "A Review of Uncertainty Quantification in Deep Learning: Techniques, Applications and Challenges",
+      "pub_year": 2020,
+      "year_1_citations": 0,
+      "total_citations": 2101,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "a6bba5ce9867c978210e3d056691b5c1e769b760",
+      "title": "Deep Learning for Person Re-Identification: A Survey and Outlook",
+      "pub_year": 2020,
+      "year_1_citations": 0,
+      "total_citations": 1708,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "7b9b756ab509cb9f52dbac95e3e901d571f0784f",
+      "title": "A Survey of the Usages of Deep Learning for Natural Language Processing",
+      "pub_year": 2020,
+      "year_1_citations": 15,
+      "total_citations": 1410,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "f9314fd99be5f2b1b3efcfab87197d578160d553",
+      "title": "Deep Learning Enabled Semantic Communication Systems",
+      "pub_year": 2020,
+      "year_1_citations": 13,
+      "total_citations": 1078,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "02d49b4dbaf8c093034918a76648fea53961753d",
+      "title": "Time-series forecasting with deep learning: a survey",
+      "pub_year": 2020,
+      "year_1_citations": 0,
+      "total_citations": 1389,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "150f95f9c73820e0a0fa1546140e9f2bdfd25954",
+      "title": "Temporal Graph Networks for Deep Learning on Dynamic Graphs",
+      "pub_year": 2020,
+      "year_1_citations": 78,
+      "total_citations": 725,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "adc61e21eafecfbf6ebecc570f9f913659a2bfb2",
+      "title": "Deep Learning--based Text Classification",
+      "pub_year": 2020,
+      "year_1_citations": 142,
+      "total_citations": 1163,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "1b04936c2599e59b120f743fbb30df2eed3fd782",
+      "title": "Shortcut learning in deep neural networks",
+      "pub_year": 2020,
+      "year_1_citations": 0,
+      "total_citations": 2233,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "2eda2921a8da4b325f9d05f556594a5884c398a7",
+      "title": "Overfitting in adversarially robust deep learning",
+      "pub_year": 2020,
+      "year_1_citations": 203,
+      "total_citations": 836,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "806e27fb9d8781c3c6e918734453418ebbeae96c",
+      "title": "Prevalence of neural collapse during the terminal phase of deep learning training",
+      "pub_year": 2020,
+      "year_1_citations": 60,
+      "total_citations": 652,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "bd02bcf2a437217eaac245abe443b2f672b3b36a",
+      "title": "Deep Learning Based Vulnerability Detection: Are We There Yet?",
+      "pub_year": 2020,
+      "year_1_citations": 21,
+      "total_citations": 564,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "298f67a9719e74192296fa2428776c46161a256a",
+      "title": "Simple and Principled Uncertainty Estimation with Deterministic Deep Learning via Distance Awareness",
+      "pub_year": 2020,
+      "year_1_citations": 85,
+      "total_citations": 483,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "1163d1ffeb57695dafe7084a63dafd5d34004db5",
+      "title": "Overview of the TREC 2019 deep learning track",
+      "pub_year": 2020,
+      "year_1_citations": 93,
+      "total_citations": 549,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "5546f2ddc098a309a49aa131f0f50e8ebc07339e",
+      "title": "Deep Learning Enables Accurate Diagnosis of Novel Coronavirus (COVID-19) With CT Images",
+      "pub_year": 2020,
+      "year_1_citations": 417,
+      "total_citations": 799,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "1e03bdf8b86d2969fff11277f9e3dcbfac132e28",
+      "title": "Deep learning in environmental remote sensing: Achievements and challenges",
+      "pub_year": 2020,
+      "year_1_citations": 148,
+      "total_citations": 1249,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "35751010cf4b09552ed4c85b5a1367f96db2641f",
+      "title": "RETRACTED ARTICLE: Deep learning system to screen coronavirus disease 2019 pneumonia",
+      "pub_year": 2020,
+      "year_1_citations": 498,
+      "total_citations": 643,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "926b2495999895300e5ea8aecbfca11a9c8a8e7a",
+      "title": "Falcon: Honest-Majority Maliciously Secure Framework for Private Deep Learning",
+      "pub_year": 2020,
+      "year_1_citations": 49,
+      "total_citations": 332,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "68ff94fd4c6c93b2da78adcda53ff49ded9f8b2a",
+      "title": "ADMM-CSNet: A Deep Learning Approach for Image Compressive Sensing",
+      "pub_year": 2020,
+      "year_1_citations": 156,
+      "total_citations": 691,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "a0614638adfe930efce68a8713ebe00e554e10ca",
+      "title": "Deep Learning for ECG Analysis: Benchmarks and Insights from PTB-XL",
+      "pub_year": 2020,
+      "year_1_citations": 46,
+      "total_citations": 342,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "e3681cef0f89bbe6712da675ed92970d518cddf4",
+      "title": "Identifying viruses from metagenomic data using deep learning",
+      "pub_year": 2020,
+      "year_1_citations": 90,
+      "total_citations": 430,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "bc1edd72df527404508d48292ecfa6e0137ae333",
+      "title": "Sample-Efficient Deep Learning for COVID-19 Diagnosis Based on CT Scans",
+      "pub_year": 2020,
+      "year_1_citations": 180,
+      "total_citations": 367,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "49ca6e8fda7abf2b0bcc48506433d9bfab1a8c68",
+      "title": "Integrating spatial gene expression and breast tumour morphology via deep learning",
+      "pub_year": 2020,
+      "year_1_citations": 62,
+      "total_citations": 380,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "83bd44a487ea02e19a27e9d77cd736dd4f5bcc00",
+      "title": "Using publicly available satellite imagery and deep learning to understand economic well-being in Africa",
+      "pub_year": 2020,
+      "year_1_citations": 88,
+      "total_citations": 388,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "d43c4fcb5469c495ad74861dcc65246b00204904",
+      "title": "COVID-19 Screening on Chest X-ray Images Using Deep Learning based Anomaly Detection",
+      "pub_year": 2020,
+      "year_1_citations": 289,
+      "total_citations": 448,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "07cca761749bfe21c2d096ff60f32b574d5c84c4",
+      "title": "Normalized Loss Functions for Deep Learning with Noisy Labels",
+      "pub_year": 2020,
+      "year_1_citations": 95,
+      "total_citations": 468,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "d12fd94337ac804470dc78911e74b5b6480eef8e",
+      "title": "Pitfalls of In-Domain Uncertainty Estimation and Ensembling in Deep Learning",
+      "pub_year": 2020,
+      "year_1_citations": 113,
+      "total_citations": 330,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "af9280741ef627f0d6c8437605d002d3bfc2d1b1",
+      "title": "Bayesian Deep Learning and a Probabilistic Perspective of Generalization",
+      "pub_year": 2020,
+      "year_1_citations": 167,
+      "total_citations": 696,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "8acc99c96a9cce2a14e049f756f608dab3491f24",
+      "title": "MCUNet: Tiny Deep Learning on IoT Devices",
+      "pub_year": 2020,
+      "year_1_citations": 65,
+      "total_citations": 536,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "c42c29c793f3b8518a313d03fa101b1201a8ad14",
+      "title": "Network intrusion detection system: A systematic study of machine learning and deep learning approaches",
+      "pub_year": 2020,
+      "year_1_citations": 56,
+      "total_citations": 844,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "775247047d0b56950ba5ea77d4a29772eca95c1b",
+      "title": "Deep Learning for Anomaly Detection",
+      "pub_year": 2020,
+      "year_1_citations": 47,
+      "total_citations": 1031,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "e3e08c64cfe155e1061e8ef235491efed35eb37f",
+      "title": "Deep Learning for Sensor-based Human Activity Recognition",
+      "pub_year": 2020,
+      "year_1_citations": 94,
+      "total_citations": 687,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "9954ec0a95fc0840f7712d7b0c67b242bb536a9e",
+      "title": "A fully automatic deep learning system for COVID-19 diagnostic and prognostic analysis",
+      "pub_year": 2020,
+      "year_1_citations": 211,
+      "total_citations": 431,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "a43026ac2a8ed3d2e2021c19127c6ec666df2c27",
+      "title": "Estimating Uncertainty and Interpretability in Deep Learning for Coronavirus (COVID-19) Detection",
+      "pub_year": 2020,
+      "year_1_citations": 244,
+      "total_citations": 385,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "934d7bffdba0b560a80a518b99a791a16b3e198c",
+      "title": "A Fourier Perspective on Model Robustness in Computer Vision",
+      "pub_year": 2019,
+      "year_1_citations": 94,
+      "total_citations": 533,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "a23fbf6e7c224e696662b948163cb27e52188356",
+      "title": "Events-To-Video: Bringing Modern Computer Vision to Event Cameras",
+      "pub_year": 2019,
+      "year_1_citations": 58,
+      "total_citations": 395,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "056eaaeec68420286a80c3f593b7711d5cc17ef6",
+      "title": "Kornia: an Open Source Differentiable Computer Vision Library for PyTorch",
+      "pub_year": 2019,
+      "year_1_citations": 39,
+      "total_citations": 386,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "37c949ec31a7e8eef6a8bb68e2daf5f2e8cd902d",
+      "title": "Computer vision and deep learning\u2013based data anomaly detection method for structural health monitoring",
+      "pub_year": 2019,
+      "year_1_citations": 68,
+      "total_citations": 463,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "9a4382bc7aad5b0f33360e7b119929b95eb04f00",
+      "title": "Analysis of Explainers of Black Box Deep Neural Networks for Computer Vision: A Survey",
+      "pub_year": 2019,
+      "year_1_citations": 31,
+      "total_citations": 393,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "3a151fceb298560d14480f4f77ec0ef2691bc52c",
+      "title": "Computer vision-based concrete crack detection using U-net fully convolutional networks",
+      "pub_year": 2019,
+      "year_1_citations": 53,
+      "total_citations": 647,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "c6e4516912e31ceca7151781b71e13e41dc50b84",
+      "title": "Evaluating Scalable Bayesian Deep Learning Methods for Robust Computer Vision",
+      "pub_year": 2019,
+      "year_1_citations": 39,
+      "total_citations": 311,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "2733574d40ce8e861d7d658bfc33ab36f529864d",
+      "title": "GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing",
+      "pub_year": 2019,
+      "year_1_citations": 51,
+      "total_citations": 202,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "b092f1cff4b46a80dcd7dfd79d67cc45e154adc0",
+      "title": "Computer Vision Analysis of Intraoperative Video: Automated Recognition of Operative Steps in Laparoscopic Sleeve Gastrectomy.",
+      "pub_year": 2019,
+      "year_1_citations": 30,
+      "total_citations": 206,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "cd682f085af85526631dc33617ac4aaae7309634",
+      "title": "Generative Adversarial Networks in Computer Vision",
+      "pub_year": 2019,
+      "year_1_citations": 36,
+      "total_citations": 206,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "cafcee20d282a346e923965cfad8d689f4c6c92a",
+      "title": "Self-Supervised Domain Adaptation for Computer Vision Tasks",
+      "pub_year": 2019,
+      "year_1_citations": 28,
+      "total_citations": 138,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "a4af1d879281da729a824d5825a507ac9ec54b50",
+      "title": "Recent Advances of Generative Adversarial Networks in Computer Vision",
+      "pub_year": 2019,
+      "year_1_citations": 49,
+      "total_citations": 144,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "3fa7c465dd4deb44147f2896a5bc24b3a4ead697",
+      "title": "Deep Learning for Computer Vision",
+      "pub_year": 2019,
+      "year_1_citations": 42,
+      "total_citations": 121,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "6355657ad654030c815a21fcb04a060b586a29a0",
+      "title": "Recent Advances in Computer Vision - Theories and Applications",
+      "pub_year": 2019,
+      "year_1_citations": 11,
+      "total_citations": 56,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "ecfb7d22f607e34c31178b70d860022810d3ab11",
+      "title": "Applications of Computer Vision in Plant Pathology: A Survey",
+      "pub_year": 2019,
+      "year_1_citations": 25,
+      "total_citations": 139,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "849a3f34b98b7a0a1ed7da0b029472b526c72169",
+      "title": "Combination of high-frequency SSVEP-based BCI and computer vision for controlling a robotic arm",
+      "pub_year": 2019,
+      "year_1_citations": 28,
+      "total_citations": 123,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "a934f039fc0c630b23f978a5c2673c80d9d69f3c",
+      "title": "Combining computer vision and deep learning to enable ultra-scale aerial phenotyping and precision agriculture: A case study of lettuce production",
+      "pub_year": 2019,
+      "year_1_citations": 22,
+      "total_citations": 126,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "763495e4ce53c989bf7c2910ae8cb51e4469e195",
+      "title": "A survey of traditional and deep learning-based feature descriptors for high dimensional data in computer vision",
+      "pub_year": 2019,
+      "year_1_citations": 9,
+      "total_citations": 139,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "faa37080da3ec04adef55495dd6770924b1b5eb7",
+      "title": "Source Compression with Bounded DNN Perception Loss for IoT Edge Computer Vision",
+      "pub_year": 2019,
+      "year_1_citations": 7,
+      "total_citations": 71,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "8209475087924d16dc9d576bfe2b43f348d3552f",
+      "title": "Computer Vision and IoT-Based Sensors in Flood Monitoring and Mapping: A Systematic Review",
+      "pub_year": 2019,
+      "year_1_citations": 8,
+      "total_citations": 103,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "824298121c3843cfb31d89297b0ca1b1828cfb9a",
+      "title": "A computer vision system for deep learning-based detection of patient mobilization activities in the ICU",
+      "pub_year": 2019,
+      "year_1_citations": 33,
+      "total_citations": 105,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "f593ea8318a3b1ed74804421af9008974fcc1e7f",
+      "title": "Eyeing computer vision syndrome: Awareness, knowledge, and its impact on sleep quality among medical students",
+      "pub_year": 2019,
+      "year_1_citations": 4,
+      "total_citations": 51,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "c075841fc16faff4a5c0669d08df6fc4b6d0bc23",
+      "title": "Computer vision analysis captures atypical attention in toddlers with autism",
+      "pub_year": 2019,
+      "year_1_citations": 25,
+      "total_citations": 96,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "f31aa2a23097e1c14206eea66541c1be0d64145f",
+      "title": "A Computer-Vision Based Application for Student Behavior Monitoring in Classroom",
+      "pub_year": 2019,
+      "year_1_citations": 5,
+      "total_citations": 84,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "c61262edc297b36bf5b964385a453469f2422cf7",
+      "title": "Computer Vision in Precipitation Nowcasting: Applying Image Quality Assessment Metrics for Training Deep Neural Networks",
+      "pub_year": 2019,
+      "year_1_citations": 16,
+      "total_citations": 95,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "9f9fcd193de9bdcde75a247b9d654d1d48cb8680",
+      "title": "A methodology for obtaining spatiotemporal information of the vehicles on bridges based on computer vision",
+      "pub_year": 2019,
+      "year_1_citations": 9,
+      "total_citations": 86,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "7a6bf17e7db421f70a7becfe8015b939f35f3d0f",
+      "title": "Automated Measurement of Lumbar Lordosis on Radiographs Using Machine Learning and Computer Vision",
+      "pub_year": 2019,
+      "year_1_citations": 9,
+      "total_citations": 66,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "45c3863931acb7e8ac74032ef19bb618a8bb754a",
+      "title": "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "pub_year": 2019,
+      "year_1_citations": 12,
+      "total_citations": 101,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "7a4920d4cf35718dd10e865a22cc4a92914bd8eb",
+      "title": "Remote Monitoring of Vital Signs in Diverse Non-Clinical and Clinical Scenarios Using Computer Vision Systems: A Review",
+      "pub_year": 2019,
+      "year_1_citations": 10,
+      "total_citations": 78,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "f3c2d279cb1b16b25a3a256cf1a2cc2e76331dc2",
+      "title": "Low-Power Computer Vision: Status, Challenges, and Opportunities",
+      "pub_year": 2019,
+      "year_1_citations": 14,
+      "total_citations": 62,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "dd8ab28df5e53b89f2b0f07774de914bed95c79f",
+      "title": "Otoscopic diagnosis using computer vision: An automated machine learning approach",
+      "pub_year": 2019,
+      "year_1_citations": 7,
+      "total_citations": 70,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "39659703d343eb1a3ca79a74225ee917d68255a2",
+      "title": "A semi\u2010active human digital twin model for detecting severity of carotid stenoses from head vibration\u2014A coupled computational mechanics and computer vision method",
+      "pub_year": 2019,
+      "year_1_citations": 7,
+      "total_citations": 67,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "2a529a31ddc876f56491c67f6e8a26135e91e43a",
+      "title": "FixyNN: Efficient Hardware for Mobile Computer Vision via Transfer Learning",
+      "pub_year": 2019,
+      "year_1_citations": 31,
+      "total_citations": 58,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "d44e41ddcc469fe88f2b8575830f607e9b958da0",
+      "title": "Autonomous Navigation for Unmanned Underwater Vehicles: Real-Time Experiments Using Computer Vision",
+      "pub_year": 2019,
+      "year_1_citations": 13,
+      "total_citations": 66,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "f301208798c1f38de46ee1b53969985f647d8bc6",
+      "title": "Temperature Measurement and Compensation Method of Blast Furnace Molten Iron Based on Infrared Computer Vision",
+      "pub_year": 2019,
+      "year_1_citations": 15,
+      "total_citations": 72,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "e66511e5ba523c914dbd265f8ce38028d534f497",
+      "title": "COMPUTER VISION FOR HUMAN-MACHINE INTERACTION-REVIEW",
+      "pub_year": 2019,
+      "year_1_citations": 16,
+      "total_citations": 52,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "076b66210b627277fccad600df527a519c3a1d12",
+      "title": "A photometric stereo-based 3D imaging system using computer vision and deep learning for tracking plant growth",
+      "pub_year": 2019,
+      "year_1_citations": 12,
+      "total_citations": 59,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "d63a88e82fc5aebe3c2b42382d2644f6bed22040",
+      "title": "Automated identification of benthic epifauna with computer vision",
+      "pub_year": 2019,
+      "year_1_citations": 15,
+      "total_citations": 51,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "4204b81111e22e7a5b8f1edf1ce287c3e3de84e1",
+      "title": "Deep Learning for Industrial Computer Vision Quality Control in the Printing Industry 4.0",
+      "pub_year": 2019,
+      "year_1_citations": 19,
+      "total_citations": 184,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "ceac21fe94793d87345946adc6ad68d6697524e5",
+      "title": "Traffic Sensing Methodology Combining Influence Line Theory and Computer Vision Techniques for Girder Bridges",
+      "pub_year": 2019,
+      "year_1_citations": 10,
+      "total_citations": 58,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "12b8afdd052f9075f24b9e24d9ba11e081f07f27",
+      "title": "Computer Vision in Autonomous Unmanned Aerial Vehicles\u2014A Systematic Mapping Study",
+      "pub_year": 2019,
+      "year_1_citations": 2,
+      "total_citations": 51,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "701c564f5047af2004b1ad10e11395e75bddf0ba",
+      "title": "A deep learning-based approach for mitigating falls from height with computer vision: Convolutional neural network",
+      "pub_year": 2019,
+      "year_1_citations": 31,
+      "total_citations": 212,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "a0185d4f32dde88aa1749f3a8000ed4721787b65",
+      "title": "Visual Transformers: Token-based Image Representation and Processing for Computer Vision",
+      "pub_year": 2020,
+      "year_1_citations": 110,
+      "total_citations": 612,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "f2d32b9a81b78dbbccfa1616c019bbc32b2a8efb",
+      "title": "Large image datasets: A pyrrhic win for computer vision?",
+      "pub_year": 2020,
+      "year_1_citations": 89,
+      "total_citations": 378,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "b4efbd4e0885d8a2e98acb5a23acbc134e08e8d1",
+      "title": "Hand Gesture Recognition Based on Computer Vision: A Review of Techniques",
+      "pub_year": 2020,
+      "year_1_citations": 49,
+      "total_citations": 454,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "4fd9bc4c8622ffdb8ee44444173472561bd660df",
+      "title": "Deep learning and computer vision will transform entomology",
+      "pub_year": 2020,
+      "year_1_citations": 44,
+      "total_citations": 311,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "08cc923c0386cdc92630bcc3cb00a337a0d91212",
+      "title": "A review of computer vision\u2013based structural health monitoring at local and global levels",
+      "pub_year": 2020,
+      "year_1_citations": 50,
+      "total_citations": 572,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "71d0204f78bc86f4bf4dbefd21731f022ad9e66d",
+      "title": "Computer Vision Techniques in Construction: A Critical Review",
+      "pub_year": 2020,
+      "year_1_citations": 57,
+      "total_citations": 316,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "0dce2bd4c7641f3df5846842ae45e10787d2272a",
+      "title": "Feature Extraction and Image Processing for Computer Vision",
+      "pub_year": 2020,
+      "year_1_citations": 125,
+      "total_citations": 306,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "8ea2ee7127fd03229a3e42a4092438d812f109b5",
+      "title": "Computer vision technology in agricultural automation \u2014A review",
+      "pub_year": 2020,
+      "year_1_citations": 96,
+      "total_citations": 542,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "11cd2c5c6ba6c0302f544fea0affc77fed47449e",
+      "title": "A critical review on computer vision and artificial intelligence in food industry",
+      "pub_year": 2020,
+      "year_1_citations": 39,
+      "total_citations": 321,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "de2d4b3ab30585597b40ede0199a218e829b2986",
+      "title": "Computer vision syndrome",
+      "pub_year": 2020,
+      "year_1_citations": 74,
+      "total_citations": 266,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "95e74beb9f54e0312f7356391ba7c699b05ebdb0",
+      "title": "A survey on generative adversarial networks for imbalance problems in computer vision tasks",
+      "pub_year": 2020,
+      "year_1_citations": 17,
+      "total_citations": 199,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "21e49fe549df571981fcabce005fd1ff3a21e37d",
+      "title": "Overview: Computer Vision and Machine Learning for Microstructural Characterization and Analysis",
+      "pub_year": 2020,
+      "year_1_citations": 20,
+      "total_citations": 181,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "fcd0f49218e61a7481a531f375e993dfe1725b5f",
+      "title": "Computer Vision Models in Intelligent Aquaculture with Emphasis on Fish Detection and Behavior Analysis: A Review",
+      "pub_year": 2020,
+      "year_1_citations": 19,
+      "total_citations": 177,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "5f6fccc32953f57fe29b2316eb8351e84b0179dc",
+      "title": "The Lottery Tickets Hypothesis for Supervised and Self-supervised Pre-training in Computer Vision Models",
+      "pub_year": 2020,
+      "year_1_citations": 36,
+      "total_citations": 126,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "7df645de6695eed2fc5b99c902f3569aef403082",
+      "title": "Computer Vision Syndrome Among Health Sciences Students in Saudi Arabia: Prevalence and Risk Factors",
+      "pub_year": 2020,
+      "year_1_citations": 26,
+      "total_citations": 113,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "ed44e1ee8f2bcdaa9b34b6d187f32f1c8e3b311a",
+      "title": "Computer vision for pattern detection in chromosome contact maps",
+      "pub_year": 2020,
+      "year_1_citations": 15,
+      "total_citations": 101,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "6059d9a1a182518ef1acf51a6697f125f07b5dde",
+      "title": "A Comprehensive Survey of Indoor Localization Methods Based on Computer Vision",
+      "pub_year": 2020,
+      "year_1_citations": 25,
+      "total_citations": 145,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "5dbd7c2ba7bc494e94e840241d7d5468b230e78f",
+      "title": "Fabric Defect Detection Using Computer Vision Techniques: A Comprehensive Review",
+      "pub_year": 2020,
+      "year_1_citations": 9,
+      "total_citations": 146,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "c299e85d90da05becffb40d50529c9756764dbbd",
+      "title": "A survey of public datasets for computer vision tasks in precision agriculture",
+      "pub_year": 2020,
+      "year_1_citations": 30,
+      "total_citations": 286,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "b8734c2f4ead3ad3d69f82d7132e9d1fff31cca4",
+      "title": "A Survey on Hand Pose Estimation with Wearable Sensors and Computer-Vision-Based Methods",
+      "pub_year": 2020,
+      "year_1_citations": 21,
+      "total_citations": 118,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "5669a212693c6513c7dc3b86eb4389fc801ed46e",
+      "title": "What Makes Politicians\u2019 Instagram Posts Popular? Analyzing Social Media Strategies of Candidates and Office Holders with Computer Vision",
+      "pub_year": 2020,
+      "year_1_citations": 10,
+      "total_citations": 85,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "3dd348730c398bdabf9a2524f5a49829160b85fd",
+      "title": "Prevalence of Computer Vision Syndrome and Its Relationship with Ergonomic and Individual Factors in Presbyopic VDT Workers Using Progressive Addition Lenses",
+      "pub_year": 2020,
+      "year_1_citations": 14,
+      "total_citations": 71,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "058eebce7a9345feef0171b6c930920c2e5280b4",
+      "title": "Computer Vision Syndrome among Undergraduate Medical Students in King Abdulaziz University, Jeddah, Saudi Arabia",
+      "pub_year": 2020,
+      "year_1_citations": 10,
+      "total_citations": 74,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "82cb1fa8d0774edd93009de748b108891a17dae1",
+      "title": "An Automated Light Trap to Monitor Moths (Lepidoptera) Using Computer Vision-Based Tracking and Deep Learning",
+      "pub_year": 2020,
+      "year_1_citations": 17,
+      "total_citations": 103,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "5bacdc39a2702e31739f65df40030215975cd597",
+      "title": "A review of computer vision technologies for plant phenotyping",
+      "pub_year": 2020,
+      "year_1_citations": 29,
+      "total_citations": 291,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "8baab90bcf6b5cbd15c1e6795ab8cc00b68ff114",
+      "title": "Image Analysis and Computer Vision Applications in Animal Sciences: An Overview",
+      "pub_year": 2020,
+      "year_1_citations": 14,
+      "total_citations": 113,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "7301b2a1c8156d7072c7eddbc780f45091004168",
+      "title": "An Overview of the Attention Mechanisms in Computer Vision",
+      "pub_year": 2020,
+      "year_1_citations": 6,
+      "total_citations": 105,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "5496a9311f8dcc155ef690ddd300103a7014f894",
+      "title": "Detection of Personal Protective Equipment (PPE) Compliance on Construction Site Using Computer Vision Based Deep Learning Techniques",
+      "pub_year": 2020,
+      "year_1_citations": 6,
+      "total_citations": 96,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "394eff1e9942d2dd2ce95c9e2eb7e13ecb07895a",
+      "title": "On line detection of defective apples using computer vision system combined with deep learning methods",
+      "pub_year": 2020,
+      "year_1_citations": 33,
+      "total_citations": 228,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "c04d9e067cfcb805b20ac514b42085fc81a7bccd",
+      "title": "Salient Object Detection Techniques in Computer Vision\u2014A Survey",
+      "pub_year": 2020,
+      "year_1_citations": 10,
+      "total_citations": 89,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "dca05d608afcae534f6a3996b1ea62e840b82780",
+      "title": "Computer vision and machine learning enabled soybean root phenotyping pipeline",
+      "pub_year": 2020,
+      "year_1_citations": 29,
+      "total_citations": 89,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "931a9dd3b56e767f928ba3e304f4cdfde745f4c4",
+      "title": "A Review on Computer Vision-Based Methods for Human Action Recognition",
+      "pub_year": 2020,
+      "year_1_citations": 7,
+      "total_citations": 89,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "72ddbdc91a86bbc4b7a1b46ca337986e405b133c",
+      "title": "Using Computer Vision to enhance Safety of Workforce in Manufacturing in a Post COVID World",
+      "pub_year": 2020,
+      "year_1_citations": 30,
+      "total_citations": 63,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "45db7f95f7eb60f480b659b6203f992235f0397f",
+      "title": "Fashion Meets Computer Vision",
+      "pub_year": 2020,
+      "year_1_citations": 15,
+      "total_citations": 104,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "28aa453e45479959693624e45ef54e40373a981d",
+      "title": "Combination of Augmented Reality Based Brain- Computer Interface and Computer Vision for High-Level Control of a Robotic Arm",
+      "pub_year": 2020,
+      "year_1_citations": 7,
+      "total_citations": 81,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "7e009997e11db2448e2c4fb7edd2f2f86dc40520",
+      "title": "CIE XYZ Net: Unprocessing Images for Low-Level Computer Vision Tasks",
+      "pub_year": 2020,
+      "year_1_citations": 7,
+      "total_citations": 47,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "80850820cce088a677659588a801575b858fe30b",
+      "title": "Deep super resolution crack network (SrcNet) for improving computer vision\u2013based automated crack detectability in in situ bridges",
+      "pub_year": 2020,
+      "year_1_citations": 10,
+      "total_citations": 71,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "1cfa3cff1ab45591bf1ee9c183f07d6304d6f294",
+      "title": "Vineyard yield estimation by combining remote sensing, computer vision and artificial neural network techniques",
+      "pub_year": 2020,
+      "year_1_citations": 19,
+      "total_citations": 77,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "4ccae13f6fbeee17b17978f6304400c0c5eaa1db",
+      "title": "Computer vision for behaviour-based safety in construction: A review and future directions",
+      "pub_year": 2020,
+      "year_1_citations": 51,
+      "total_citations": 254,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "361c00b22e29d0816ca896513d2c165e26399821",
+      "title": "Grandmaster level in StarCraft II using multi-agent reinforcement learning",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 3901,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "4ffb0130c2e19033a1696c32dac2239f702c8dc4",
+      "title": "Reinforcement learning",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 2724,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "b19729b27a1b4c24b52f87308c907653300afa7f",
+      "title": "Dota 2 with Large Scale Deep Reinforcement Learning",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 1908,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "54d4a221db5a91a2487b1610374843fafff5a23d",
+      "title": "Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms",
+      "pub_year": 2019,
+      "year_1_citations": 0,
+      "total_citations": 1334,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "56ca9b304e0476feaa6dd4fd1cccc8c0a1a9d8eb",
+      "title": "QTRAN: Learning to Factorize with Transformation for Cooperative Multi-Agent Reinforcement Learning",
+      "pub_year": 2019,
+      "year_1_citations": 70,
+      "total_citations": 865,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "d423fa6cd0f4d088941d9fe4bebd834d0137c9b9",
+      "title": "Provably Efficient Reinforcement Learning with Linear Function Approximation",
+      "pub_year": 2019,
+      "year_1_citations": 72,
+      "total_citations": 593,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "4625628163a2ee0e6cd320cd7a14b4ccded2a631",
+      "title": "Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables",
+      "pub_year": 2019,
+      "year_1_citations": 140,
+      "total_citations": 697,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "8d814620a1ca77e745bc8a33b96b86148f2804fe",
+      "title": "Leveraging Procedural Generation to Benchmark Reinforcement Learning",
+      "pub_year": 2019,
+      "year_1_citations": 58,
+      "total_citations": 594,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "4d0f6a6ffcd6ab04732ff76420fd9f8a7bb649c3",
+      "title": "Benchmarking Safe Exploration in Deep Reinforcement Learning",
+      "pub_year": 2019,
+      "year_1_citations": 46,
+      "total_citations": 530,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "9be492858863c8c7c24be1ecb75724de5086bd8e",
+      "title": "Behavior Regularized Offline Reinforcement Learning",
+      "pub_year": 2019,
+      "year_1_citations": 45,
+      "total_citations": 716,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "ad14227e4f51276892ffc37aa43fd8750bb5eba8",
+      "title": "Advantage-Weighted Regression: Simple and Scalable Off-Policy Reinforcement Learning",
+      "pub_year": 2019,
+      "year_1_citations": 35,
+      "total_citations": 622,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "4012d4ab621f3f5f04b0f91849a60c6eaabe64b4",
+      "title": "An Optimistic Perspective on Offline Reinforcement Learning",
+      "pub_year": 2019,
+      "year_1_citations": 37,
+      "total_citations": 526,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "8c54e8575e7c17a4097838305915e6e7b00fd4af",
+      "title": "Relay Policy Learning: Solving Long-Horizon Tasks via Imitation and Reinforcement Learning",
+      "pub_year": 2019,
+      "year_1_citations": 29,
+      "total_citations": 467,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "abb0460b839a7cae30245c9690d54462f8275e47",
+      "title": "Google Research Football: A Novel Reinforcement Learning Environment",
+      "pub_year": 2019,
+      "year_1_citations": 28,
+      "total_citations": 442,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "b32ffe8f86bf0c36d85f8274ff0b6e2c9690a133",
+      "title": "Information-Theoretic Considerations in Batch Reinforcement Learning",
+      "pub_year": 2019,
+      "year_1_citations": 63,
+      "total_citations": 391,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "adcd4bfd88213da0c33d3cb7057411dd15b72c7a",
+      "title": "End-to-End Safe Reinforcement Learning through Barrier Functions for Safety-Critical Continuous Control Tasks",
+      "pub_year": 2019,
+      "year_1_citations": 101,
+      "total_citations": 663,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "b17e0b5b5c7e632ecf5f35b0616cbf820382fcf7",
+      "title": "Multi-Agent Deep Reinforcement Learning for Large-Scale Traffic Signal Control",
+      "pub_year": 2019,
+      "year_1_citations": 75,
+      "total_citations": 717,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "69d1ee8a99f55e9228f33fdb3a0339541ad1201c",
+      "title": "Stochastic Latent Actor-Critic: Deep Reinforcement Learning with a Latent Variable Model",
+      "pub_year": 2019,
+      "year_1_citations": 52,
+      "total_citations": 392,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "59a916cdc943f0282908e6f3fa0360f4c5fb78d0",
+      "title": "Stabilizing Transformers for Reinforcement Learning",
+      "pub_year": 2019,
+      "year_1_citations": 39,
+      "total_citations": 388,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "6ff50528f3d7c72772f8c0e3f8398f9dd8e06575",
+      "title": "Adversarial Policies: Attacking Deep Reinforcement Learning",
+      "pub_year": 2019,
+      "year_1_citations": 60,
+      "total_citations": 373,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "2fc328f3702d6f8730235b1b3ddf7cc5fc096c0d",
+      "title": "Extrapolating Beyond Suboptimal Demonstrations via Inverse Reinforcement Learning from Observations",
+      "pub_year": 2019,
+      "year_1_citations": 58,
+      "total_citations": 375,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "222baa4e9e7ce691fdfddbc826a70e027daed70d",
+      "title": "Reinforcement Learning in Healthcare: A Survey",
+      "pub_year": 2019,
+      "year_1_citations": 12,
+      "total_citations": 623,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "896e5529de1da1e4494033404721b70339bb9557",
+      "title": "Challenges of Real-World Reinforcement Learning",
+      "pub_year": 2019,
+      "year_1_citations": 144,
+      "total_citations": 579,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "6b02cc4b1f723192be61ff083de02ea2e8f9ad3f",
+      "title": "Deep Reinforcement Learning for Offloading and Resource Allocation in Vehicle Edge Computing and Networks",
+      "pub_year": 2019,
+      "year_1_citations": 55,
+      "total_citations": 422,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "f7c15e9ac6653330b7dd18a89301a3b333927db3",
+      "title": "A review of cooperative multi-agent deep reinforcement learning",
+      "pub_year": 2019,
+      "year_1_citations": 29,
+      "total_citations": 484,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "4ee70fb32981f84f9dddc57bd59a69e677c91759",
+      "title": "Benchmarking Model-Based Reinforcement Learning",
+      "pub_year": 2019,
+      "year_1_citations": 124,
+      "total_citations": 375,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "0ac70f97142e121ac13df35f82865a5b817036a7",
+      "title": "Spectrum Sharing in Vehicular Networks Based on Multi-Agent Reinforcement Learning",
+      "pub_year": 2019,
+      "year_1_citations": 29,
+      "total_citations": 357,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "cfb68baa23048e3e0f8845c099fa013797bd623f",
+      "title": "Explainable Reinforcement Learning Through a Causal Lens",
+      "pub_year": 2019,
+      "year_1_citations": 55,
+      "total_citations": 376,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "a9b901fcd68a3715d5ef186a398476bc1e762b0e",
+      "title": "Deep Reinforcement Learning for Cyber Security",
+      "pub_year": 2019,
+      "year_1_citations": 6,
+      "total_citations": 362,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "88c831ce56b8fcdc47ab5a8f133743abf58c8883",
+      "title": "A Deep Reinforcement Learning Perspective on Internet Congestion Control",
+      "pub_year": 2019,
+      "year_1_citations": 56,
+      "total_citations": 336,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "57daffd65a5d73a439903f3e50950c21c9eba687",
+      "title": "Way Off-Policy Batch Deep Reinforcement Learning of Implicit Human Preferences in Dialog",
+      "pub_year": 2019,
+      "year_1_citations": 55,
+      "total_citations": 353,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "486c93a171650cdf1fff68cbbe646393517fca36",
+      "title": "Variational Quantum Circuits for Deep Reinforcement Learning",
+      "pub_year": 2019,
+      "year_1_citations": 23,
+      "total_citations": 354,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "292bbd1287a0674cd9e3e79224e768ca557dcf81",
+      "title": "Mastering Complex Control in MOBA Games with Deep Reinforcement Learning",
+      "pub_year": 2019,
+      "year_1_citations": 27,
+      "total_citations": 350,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "a7518e1cdee4aae6510eb0b79f4c66b9dd4b7081",
+      "title": "Deep Reinforcement Learning for User Association and Resource Allocation in Heterogeneous Cellular Networks",
+      "pub_year": 2019,
+      "year_1_citations": 54,
+      "total_citations": 341,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "ec9a3ddb8b748355931ca7146c16a363600e9eb7",
+      "title": "An End-to-End Automatic Cloud Database Tuning System Using Deep Reinforcement Learning",
+      "pub_year": 2019,
+      "year_1_citations": 51,
+      "total_citations": 320,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "671441f065e0efe26bdcd18296f4743ae3d2d72a",
+      "title": "A Generalized Algorithm for Multi-Objective Reinforcement Learning and Policy Adaptation",
+      "pub_year": 2019,
+      "year_1_citations": 23,
+      "total_citations": 278,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "f14ea2243fe74cbf1a4ea86cebed1fb9547c3a7c",
+      "title": "Tighter Problem-Dependent Regret Bounds in Reinforcement Learning without Domain Knowledge using Value Function Bounds",
+      "pub_year": 2019,
+      "year_1_citations": 88,
+      "total_citations": 290,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "ab376f85d36f3af1778e5560421c6cb6c2fefd1b",
+      "title": "Deep Reinforcement Learning for Multiobjective Optimization",
+      "pub_year": 2019,
+      "year_1_citations": 8,
+      "total_citations": 294,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "1534d860ab98b64d23ffa741d0ae52b6cadbf503",
+      "title": "Benchmarking Batch Deep Reinforcement Learning Algorithms",
+      "pub_year": 2019,
+      "year_1_citations": 42,
+      "total_citations": 190,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "bcdb21ca1703fc6f62df420626e36d138480a6a1",
+      "title": "Action Robust Reinforcement Learning and Applications in Continuous Control",
+      "pub_year": 2019,
+      "year_1_citations": 28,
+      "total_citations": 254,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "b4e69b0172d69c80f83366c296b6222805360445",
+      "title": "SQIL: Imitation Learning via Reinforcement Learning with Sparse Rewards",
+      "pub_year": 2019,
+      "year_1_citations": 27,
+      "total_citations": 277,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "b224d0f575237feb681717b7e74157dc0bd500df",
+      "title": "Robust Multi-Agent Reinforcement Learning via Minimax Deep Deterministic Policy Gradient",
+      "pub_year": 2019,
+      "year_1_citations": 49,
+      "total_citations": 305,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "648ea87fe7f99ca8ea5090cb1ba40242299ef4c4",
+      "title": "Reinforcement learning for demand response: A review of algorithms and modeling techniques",
+      "pub_year": 2019,
+      "year_1_citations": 126,
+      "total_citations": 618,
+      "venue": "Unknown",
+      "age_years": 6
+    },
+    {
+      "paper_id": "5e7bc93622416f14e6948a500278bfbe58cd3890",
+      "title": "Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems",
+      "pub_year": 2020,
+      "year_1_citations": 0,
+      "total_citations": 2171,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "28db20a81eec74a50204686c3cf796c42a020d2e",
+      "title": "Conservative Q-Learning for Offline Reinforcement Learning",
+      "pub_year": 2020,
+      "year_1_citations": 0,
+      "total_citations": 1998,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "a326d9f2d2d351001fece788165dbcbb524da2e4",
+      "title": "D4RL: Datasets for Deep Data-Driven Reinforcement Learning",
+      "pub_year": 2020,
+      "year_1_citations": 0,
+      "total_citations": 1471,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "3a5ac09e759f3223ee78b995ae2b519efc0f9292",
+      "title": "Introduction to Reinforcement Learning",
+      "pub_year": 2020,
+      "year_1_citations": 475,
+      "total_citations": 1697,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "129983331ca874142a3e8eb2d93d820bdf1f9aca",
+      "title": "Deep Reinforcement Learning for Autonomous Driving: A Survey",
+      "pub_year": 2020,
+      "year_1_citations": 0,
+      "total_citations": 1849,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "9efb64f20ab1f157ca9f4050d4aaacf6c3f9b2b2",
+      "title": "CURL: Contrastive Unsupervised Representations for Reinforcement Learning",
+      "pub_year": 2020,
+      "year_1_citations": 260,
+      "total_citations": 1144,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "6568423cfaca7e24c88ea208cb0e67129e43aa9b",
+      "title": "Image Augmentation Is All You Need: Regularizing Deep Reinforcement Learning from Pixels",
+      "pub_year": 2020,
+      "year_1_citations": 180,
+      "total_citations": 829,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "246a68fcf2bcd1db8f0184129b63123d1f98eaa3",
+      "title": "POMO: Policy Optimization with Multiple Optima for Reinforcement Learning",
+      "pub_year": 2020,
+      "year_1_citations": 16,
+      "total_citations": 403,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "744139d65c3bf6da6a6acd384a32d94a06f44f62",
+      "title": "Reinforcement Learning with Augmented Data",
+      "pub_year": 2020,
+      "year_1_citations": 166,
+      "total_citations": 694,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "3f5f13c6f5c659754086a7faa51d6bc60f577cd1",
+      "title": "Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning",
+      "pub_year": 2020,
+      "year_1_citations": 90,
+      "total_citations": 971,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "7c4356ec0dca6e6df0af7a882e2cd1571c8bf3dc",
+      "title": "Data-Efficient Reinforcement Learning with Self-Predictive Representations",
+      "pub_year": 2020,
+      "year_1_citations": 44,
+      "total_citations": 340,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "794c17f1c7564ce6cc0d9d409aef73c8a6a79f59",
+      "title": "Toward A Thousand Lights: Decentralized Deep Reinforcement Learning for Large-Scale Traffic Signal Control",
+      "pub_year": 2020,
+      "year_1_citations": 61,
+      "total_citations": 375,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "d594764273c02b5a3bbdc4a8d49979a23ad1f125",
+      "title": "Learning to Dispatch for Job Shop Scheduling via Deep Reinforcement Learning",
+      "pub_year": 2020,
+      "year_1_citations": 29,
+      "total_citations": 344,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "82f7073b503143cf3ed4d59dca2f206ba18a31b9",
+      "title": "Optimizing Federated Learning on Non-IID Data with Reinforcement Learning",
+      "pub_year": 2020,
+      "year_1_citations": 114,
+      "total_citations": 867,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "e102cd42c402026a3862d2e60a75eed7c78860a2",
+      "title": "Curriculum Learning for Reinforcement Learning Domains: A Framework and Survey",
+      "pub_year": 2020,
+      "year_1_citations": 76,
+      "total_citations": 548,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "3a70562df004e08d91b125e6d15255e31e445efa",
+      "title": "PettingZoo: Gym for Multi-Agent Reinforcement Learning",
+      "pub_year": 2020,
+      "year_1_citations": 32,
+      "total_citations": 324,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "5a1b92aa50797a7c1e99b8840ff01aad66038596",
+      "title": "Sim-to-Real Transfer in Deep Reinforcement Learning for Robotics: a Survey",
+      "pub_year": 2020,
+      "year_1_citations": 60,
+      "total_citations": 816,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "90f9ef793c1e4000ee523e1f8cea501fb8806fa0",
+      "title": "Reward-Free Exploration for Reinforcement Learning",
+      "pub_year": 2020,
+      "year_1_citations": 61,
+      "total_citations": 204,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "16e83f3f0f78ceb203746eeb88f1f5aae9ba3092",
+      "title": "Deep reinforcement learning: a survey",
+      "pub_year": 2020,
+      "year_1_citations": 20,
+      "total_citations": 513,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "b68b8b980db62308864b2a7d33718182c5f8335b",
+      "title": "Accelerating Reinforcement Learning with Learned Skill Priors",
+      "pub_year": 2020,
+      "year_1_citations": 38,
+      "total_citations": 260,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "86a9a8cff082ddba64e00969274d4408db2b4811",
+      "title": "A distributional code for value in dopamine-based reinforcement learning",
+      "pub_year": 2020,
+      "year_1_citations": 150,
+      "total_citations": 366,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "0bfc0ce3c40d83f24510ea80e2c3675413e3afa5",
+      "title": "Nearly Minimax Optimal Reinforcement Learning for Linear Mixture Markov Decision Processes",
+      "pub_year": 2020,
+      "year_1_citations": 47,
+      "total_citations": 220,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "57c6ba16f4d6142aee91aabd34764c375b089247",
+      "title": "Federated Deep Reinforcement Learning for Internet of Things With Decentralized Cooperative Edge Caching",
+      "pub_year": 2020,
+      "year_1_citations": 105,
+      "total_citations": 330,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "383a2b6362b8fe6c8a922d193383f88fdf87bb44",
+      "title": "Multi-Agent Deep Reinforcement Learning-Based Trajectory Planning for Multi-UAV Assisted Mobile Edge Computing",
+      "pub_year": 2020,
+      "year_1_citations": 27,
+      "total_citations": 311,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "780270a7940c96b0c907103ff8e77dfe082f564f",
+      "title": "GCN-RL Circuit Designer: Transferable Transistor Sizing with Graph Neural Networks and Reinforcement Learning",
+      "pub_year": 2020,
+      "year_1_citations": 36,
+      "total_citations": 269,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "3e3479d644e9a950ffd9383abb8bf7dea8baf426",
+      "title": "Intelligent Resource Slicing for eMBB and URLLC Coexistence in 5G and Beyond: A Deep Reinforcement Learning Based Approach",
+      "pub_year": 2020,
+      "year_1_citations": 28,
+      "total_citations": 256,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "6778d6a0f959cdcc42718ee9fc279fd1f00f3d88",
+      "title": "Reward Machines: Exploiting Reward Function Structure in Reinforcement Learning",
+      "pub_year": 2020,
+      "year_1_citations": 16,
+      "total_citations": 250,
+      "venue": "Unknown",
+      "age_years": 5
+    },
+    {
+      "paper_id": "600aaa3918feb25a690f69931446c8ace2863d8e",
+      "title": "Generalization in Reinforcement Learning by Soft Data Augmentation",
+      "pub_year": 2020,
+      "year_1_citations": 17,
+      "total_citations": 193,
+      "venue": "Unknown",
+      "age_years": 5
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+# Requirements for GitHub Validation Analysis
+# Python 3.8+
+
+# Core dependencies
+requests>=2.31.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+
+# For data analysis
+scipy>=1.10.0
+
+# For colored output (optional)
+colorama>=0.4.6
+
+# For time series analysis (optional)
+statsmodels>=0.14.0

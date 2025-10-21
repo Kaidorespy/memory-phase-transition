@@ -1,0 +1,894 @@
+{
+  "total_packages": 111,
+  "collection_date": "2025-10-18T00:34:25.267892",
+  "packages": [
+    {
+      "name": "@asyncapi/react-component",
+      "publish_date": "2020-11-16T17:46:36.397000",
+      "age_years": 4.920547945205479,
+      "week1_downloads": 312,
+      "recent_30day_downloads": 528746,
+      "description": "A React component for AsyncAPI specification."
+    },
+    {
+      "name": "@rc-component/util",
+      "publish_date": "2025-01-08T06:27:19.659000",
+      "age_years": 0.7726027397260274,
+      "week1_downloads": 2345,
+      "recent_30day_downloads": 779134,
+      "description": "Common Utils For React Component"
+    },
+    {
+      "name": "@react-email/tailwind",
+      "publish_date": "2023-01-28T00:09:12.659000",
+      "age_years": 2.723287671232877,
+      "week1_downloads": 429,
+      "recent_30day_downloads": 5088587,
+      "description": "A React component to wrap emails with Tailwind CSS"
+    },
+    {
+      "name": "@lit/react",
+      "publish_date": "2023-09-29T00:05:14.053000",
+      "age_years": 2.0547945205479454,
+      "week1_downloads": 421,
+      "recent_30day_downloads": 1666849,
+      "description": "A React component wrapper for web components."
+    },
+    {
+      "name": "unplugin-vue-markdown",
+      "publish_date": "2023-08-15T13:08:49.530000",
+      "age_years": 2.175342465753425,
+      "week1_downloads": 1758,
+      "recent_30day_downloads": 111120,
+      "description": "Compile Markdown to Vue component"
+    },
+    {
+      "name": "vue-country-flag-next",
+      "publish_date": "2021-01-17T18:56:29.225000",
+      "age_years": 4.750684931506849,
+      "week1_downloads": 56,
+      "recent_30day_downloads": 116754,
+      "description": "Simple Vue component for displaying of country flags"
+    },
+    {
+      "name": "scrud-component-test",
+      "publish_date": "2021-04-22T20:06:34.677000",
+      "age_years": 4.49041095890411,
+      "week1_downloads": 480,
+      "recent_30day_downloads": 7293,
+      "description": "SCRUD Vue Component"
+    },
+    {
+      "name": "@vue/repl",
+      "publish_date": "2021-09-06T21:45:55.544000",
+      "age_years": 4.115068493150685,
+      "week1_downloads": 985,
+      "recent_30day_downloads": 30516,
+      "description": "Vue component for editing Vue components"
+    },
+    {
+      "name": "vue-starport",
+      "publish_date": "2022-04-01T18:12:20.411000",
+      "age_years": 3.547945205479452,
+      "week1_downloads": 113,
+      "recent_30day_downloads": 14627,
+      "description": "Shared Vue component across routes with animations"
+    },
+    {
+      "name": "vue3-tabs-component",
+      "publish_date": "2021-01-17T20:49:28.309000",
+      "age_years": 4.750684931506849,
+      "week1_downloads": 98,
+      "recent_30day_downloads": 20445,
+      "description": "A Vue component to easily render tabs"
+    },
+    {
+      "name": "svg-vue3",
+      "publish_date": "2020-12-30T04:55:04.850000",
+      "age_years": 4.8,
+      "week1_downloads": 198,
+      "recent_30day_downloads": 7039,
+      "description": "Laravel Mix SVG Vue Component"
+    },
+    {
+      "name": "@apollo/utils.withrequired",
+      "publish_date": "2022-06-09T17:04:44.012000",
+      "age_years": 3.3589041095890413,
+      "week1_downloads": 164,
+      "recent_30day_downloads": 5886249,
+      "description": "TypeScript utility type WithRequired"
+    },
+    {
+      "name": "util-ts-types",
+      "publish_date": "2024-04-05T07:27:28.711000",
+      "age_years": 1.5342465753424657,
+      "week1_downloads": 108,
+      "recent_30day_downloads": 25244,
+      "description": "Essential(!) TypeScript utility types."
+    },
+    {
+      "name": "@apoyo/std",
+      "publish_date": "2021-02-26T17:45:52.584000",
+      "age_years": 4.641095890410959,
+      "week1_downloads": 45,
+      "recent_30day_downloads": 2300,
+      "description": "Typescript utility library"
+    },
+    {
+      "name": "@polymarket/order-utils",
+      "publish_date": "2021-07-30T00:41:54.403000",
+      "age_years": 4.219178082191781,
+      "week1_downloads": 116,
+      "recent_30day_downloads": 21673,
+      "description": "Typescript utility for creating orders for Polymarket's CLOB"
+    },
+    {
+      "name": "ts-deep-pick",
+      "publish_date": "2020-12-04T15:12:56.946000",
+      "age_years": 4.8712328767123285,
+      "week1_downloads": 108,
+      "recent_30day_downloads": 49974,
+      "description": "TypeScript utility generating new types by deep picking/omitting, leveraging Template Literal Types "
+    },
+    {
+      "name": "fuuu",
+      "publish_date": "2024-08-07T17:57:57.369000",
+      "age_years": 1.1945205479452055,
+      "week1_downloads": 505,
+      "recent_30day_downloads": 6503,
+      "description": "TypeScript utility to safely execute functions"
+    },
+    {
+      "name": "@sylops/typecase",
+      "publish_date": "2021-02-18T14:44:16.335000",
+      "age_years": 4.663013698630137,
+      "week1_downloads": 86,
+      "recent_30day_downloads": 912,
+      "description": "A TypeScript utility library"
+    },
+    {
+      "name": "froebel",
+      "publish_date": "2022-05-26T17:45:14.588000",
+      "age_years": 3.3972602739726026,
+      "week1_downloads": 250,
+      "recent_30day_downloads": 846,
+      "description": "TypeScript utility library"
+    },
+    {
+      "name": "@initia/utils",
+      "publish_date": "2023-03-14T15:44:11.152000",
+      "age_years": 2.5972602739726027,
+      "week1_downloads": 296,
+      "recent_30day_downloads": 2855,
+      "description": "TypeScript utility library for Interwoven applications"
+    },
+    {
+      "name": "@guanghechen/utility-types",
+      "publish_date": "2021-03-27T12:15:18.545000",
+      "age_years": 4.561643835616438,
+      "week1_downloads": 96,
+      "recent_30day_downloads": 1191,
+      "description": "Collection of typescript utility types"
+    },
+    {
+      "name": "topsyde-utils",
+      "publish_date": "2025-02-27T07:36:31.768000",
+      "age_years": 0.6356164383561644,
+      "week1_downloads": 10194,
+      "recent_30day_downloads": 3327,
+      "description": "A bundle of TypeScript utility classes and functions"
+    },
+    {
+      "name": "@tscircuit/math-utils",
+      "publish_date": "2024-09-14T21:44:45.276000",
+      "age_years": 1.0904109589041096,
+      "week1_downloads": 1548,
+      "recent_30day_downloads": 106095,
+      "description": "This repository contains a collection of TypeScript utility functions for geometric calculations, pr"
+    },
+    {
+      "name": "@byteslice/result",
+      "publish_date": "2024-09-05T17:41:25.485000",
+      "age_years": 1.115068493150685,
+      "week1_downloads": 113,
+      "recent_30day_downloads": 23687,
+      "description": "A lightweight TypeScript utility for wrapping operations in a structured `Result` type, mitigating t"
+    },
+    {
+      "name": "@apitree.cz/ts-utils",
+      "publish_date": "2024-01-15T21:07:46.173000",
+      "age_years": 1.7561643835616438,
+      "week1_downloads": 920,
+      "recent_30day_downloads": 447,
+      "description": "TypeScript utility functions for ApiTree projects."
+    },
+    {
+      "name": "@brixtol/tsutils",
+      "publish_date": "2021-11-06T10:48:14.192000",
+      "age_years": 3.947945205479452,
+      "week1_downloads": 146,
+      "recent_30day_downloads": 1247,
+      "description": "Brixtol Textiles commonly used TypeScript utility types"
+    },
+    {
+      "name": "base-up",
+      "publish_date": "2022-12-14T06:31:43.826000",
+      "age_years": 2.8438356164383563,
+      "week1_downloads": 389,
+      "recent_30day_downloads": 479,
+      "description": "A modern TypeScript utility library."
+    },
+    {
+      "name": "@whoj/utils-types",
+      "publish_date": "2022-08-08T23:03:42.883000",
+      "age_years": 3.1945205479452055,
+      "week1_downloads": 97,
+      "recent_30day_downloads": 1038,
+      "description": "Typescript utility/helper collection by @whoj"
+    },
+    {
+      "name": "@integral-de/filename-sanitizer",
+      "publish_date": "2025-04-11T15:55:52.297000",
+      "age_years": 0.5178082191780822,
+      "week1_downloads": 373,
+      "recent_30day_downloads": 1179,
+      "description": "A JavaScript/TypeScript utility to sanitize filenames for S3 and general use"
+    },
+    {
+      "name": "array-utils-ts",
+      "publish_date": "2023-05-16T10:12:33.429000",
+      "age_years": 2.4246575342465753,
+      "week1_downloads": 117,
+      "recent_30day_downloads": 4099,
+      "description": "Lightweight TypeScript utility library providing essential array manipulation functions for state ma"
+    },
+    {
+      "name": "@jsmanifest/typefest",
+      "publish_date": "2021-05-12T00:30:32.917000",
+      "age_years": 4.435616438356164,
+      "week1_downloads": 125,
+      "recent_30day_downloads": 405,
+      "description": "TypeScript utility types"
+    },
+    {
+      "name": "softkave-js-utils",
+      "publish_date": "2024-03-17T18:06:49.504000",
+      "age_years": 1.5863013698630137,
+      "week1_downloads": 68,
+      "recent_30day_downloads": 529,
+      "description": "JavaScript  & Typescript utility functions, types, and classes"
+    },
+    {
+      "name": "@opi_pib/ts-utility",
+      "publish_date": "2022-09-16T11:47:13.477000",
+      "age_years": 3.0876712328767124,
+      "week1_downloads": 104,
+      "recent_30day_downloads": 221,
+      "description": "Typescript utility"
+    },
+    {
+      "name": "ts-wiz",
+      "publish_date": "2023-10-17T19:46:31.051000",
+      "age_years": 2.0027397260273974,
+      "week1_downloads": 254,
+      "recent_30day_downloads": 264,
+      "description": "Typescript utility library"
+    },
+    {
+      "name": "@choseohwan/utils",
+      "publish_date": "2021-08-05T10:50:17.224000",
+      "age_years": 4.2027397260273975,
+      "week1_downloads": 770,
+      "recent_30day_downloads": 208,
+      "description": "typescript utility functions"
+    },
+    {
+      "name": "@gmana/utils",
+      "publish_date": "2022-04-04T02:06:42.451000",
+      "age_years": 3.5397260273972604,
+      "week1_downloads": 93,
+      "recent_30day_downloads": 1009,
+      "description": "TypeScript utility functions with Tailwind CSS helpers and common JavaScript utilities"
+    },
+    {
+      "name": "@jagaad/utils",
+      "publish_date": "2025-03-20T12:39:59.175000",
+      "age_years": 0.5780821917808219,
+      "week1_downloads": 946,
+      "recent_30day_downloads": 431,
+      "description": "A collection of JavaScript/TypeScript utility functions and helpers for Jagaad projects"
+    },
+    {
+      "name": "@rsbuild/core",
+      "publish_date": "2023-10-17T02:48:13.871000",
+      "age_years": 2.0027397260273974,
+      "week1_downloads": 832,
+      "recent_30day_downloads": 2160351,
+      "description": "The Rspack-based build tool."
+    },
+    {
+      "name": "node-gyp-build-optional-packages",
+      "publish_date": "2022-04-05T23:05:29.323000",
+      "age_years": 3.536986301369863,
+      "week1_downloads": 125472,
+      "recent_30day_downloads": 26466630,
+      "description": "Build tool and bindings loader for node-gyp that supports prebuilds"
+    },
+    {
+      "name": "@electron/node-gyp",
+      "publish_date": "2024-09-24T07:04:27.270000",
+      "age_years": 1.063013698630137,
+      "week1_downloads": 70,
+      "recent_30day_downloads": 34173,
+      "description": "Node.js native addon build tool"
+    },
+    {
+      "name": "@aminya/node-gyp-build",
+      "publish_date": "2022-11-27T06:30:40.301000",
+      "age_years": 2.8904109589041096,
+      "week1_downloads": 1264,
+      "recent_30day_downloads": 286808,
+      "description": "Build tool and bindings loader for node-gyp that supports prebuilds"
+    },
+    {
+      "name": "@sinclair/hammer",
+      "publish_date": "2021-04-18T07:03:31.292000",
+      "age_years": 4.501369863013698,
+      "week1_downloads": 42,
+      "recent_30day_downloads": 9697,
+      "description": "Build Tool for Browser and Node Applications"
+    },
+    {
+      "name": "tf-next",
+      "publish_date": "2021-01-03T13:09:53.207000",
+      "age_years": 4.789041095890411,
+      "week1_downloads": 128,
+      "recent_30day_downloads": 9106,
+      "description": "CLI build tool for AWS Next.js Terraform module."
+    },
+    {
+      "name": "ctz",
+      "publish_date": "2024-04-25T03:55:22.728000",
+      "age_years": 1.4794520547945205,
+      "week1_downloads": 97,
+      "recent_30day_downloads": 2293,
+      "description": "Build tool to containerize cloud applications"
+    },
+    {
+      "name": "@storybook/native",
+      "publish_date": "2020-10-30T23:10:31.061000",
+      "age_years": 4.967123287671233,
+      "week1_downloads": 611,
+      "recent_30day_downloads": 1802,
+      "description": "storybook native build tool"
+    },
+    {
+      "name": "@cocos/ccbuild",
+      "publish_date": "2023-02-21T12:13:24.959000",
+      "age_years": 2.654794520547945,
+      "week1_downloads": 369,
+      "recent_30day_downloads": 2274,
+      "description": "The next generation of build tool for Cocos engine."
+    },
+    {
+      "name": "@nocobase/build",
+      "publish_date": "2022-05-18T17:02:27.735000",
+      "age_years": 3.419178082191781,
+      "week1_downloads": 900,
+      "recent_30day_downloads": 5900,
+      "description": "Library build tool based on rollup."
+    },
+    {
+      "name": "@neon-rs/cli",
+      "publish_date": "2023-04-17T16:47:13.165000",
+      "age_years": 2.504109589041096,
+      "week1_downloads": 371,
+      "recent_30day_downloads": 2790,
+      "description": "Command-line build tool for Neon modules."
+    },
+    {
+      "name": "testing-library-selector",
+      "publish_date": "2020-10-18T17:30:25.808000",
+      "age_years": 5.0,
+      "week1_downloads": 213,
+      "recent_30day_downloads": 267300,
+      "description": "selectors for react testing library"
+    },
+    {
+      "name": "@testing-library/webdriverio",
+      "publish_date": "2021-02-18T22:53:48.857000",
+      "age_years": 4.663013698630137,
+      "week1_downloads": 46,
+      "recent_30day_downloads": 117176,
+      "description": "<div align=\"center\"> <h1>webdriverio-testing-library</h1>"
+    },
+    {
+      "name": "@playwright-testing-library/test",
+      "publish_date": "2021-10-04T19:55:34.588000",
+      "age_years": 4.038356164383561,
+      "week1_downloads": 126,
+      "recent_30day_downloads": 38497,
+      "description": "playwright + dom-testing-library"
+    },
+    {
+      "name": "shadow-dom-testing-library",
+      "publish_date": "2022-07-06T19:25:54.777000",
+      "age_years": 3.2849315068493152,
+      "week1_downloads": 109,
+      "recent_30day_downloads": 284863,
+      "description": "An extension of DOM-testing-library to provide hooks into the shadow dom"
+    },
+    {
+      "name": "@closeio/backbone-testing-library",
+      "publish_date": "2020-12-22T13:23:17.640000",
+      "age_years": 4.821917808219178,
+      "week1_downloads": 64,
+      "recent_30day_downloads": 68318,
+      "description": "DOM testing utilities with API that mirrors React Testing Library"
+    },
+    {
+      "name": "@1024pix/ember-testing-library",
+      "publish_date": "2021-10-27T15:36:26.921000",
+      "age_years": 3.9753424657534246,
+      "week1_downloads": 70,
+      "recent_30day_downloads": 11925,
+      "description": "Package for Testing Library usage in Ember applications."
+    },
+    {
+      "name": "@airtable/blocks-testing",
+      "publish_date": "2021-03-02T12:23:53.581000",
+      "age_years": 4.63013698630137,
+      "week1_downloads": 7,
+      "recent_30day_downloads": 87939,
+      "description": "Airtable Blocks Testing Library"
+    },
+    {
+      "name": "testing-library-froyojs",
+      "publish_date": "2023-01-17T18:26:07.776000",
+      "age_years": 2.750684931506849,
+      "week1_downloads": 282,
+      "recent_30day_downloads": 6610,
+      "description": "A package that extends DOM Testing Library to work with Froyo"
+    },
+    {
+      "name": "@grafana/testing-library-k6-browser",
+      "publish_date": "2024-04-04T15:39:04.580000",
+      "age_years": 1.536986301369863,
+      "week1_downloads": 0,
+      "recent_30day_downloads": 2028,
+      "description": "Testing Library selector for k6 browser"
+    },
+    {
+      "name": "@apitree.cz/testing-library",
+      "publish_date": "2023-10-30T14:54:40.970000",
+      "age_years": 1.9671232876712328,
+      "week1_downloads": 795,
+      "recent_30day_downloads": 1961,
+      "description": "React Testing Library setup for Vitest in ApiTree projects."
+    },
+    {
+      "name": "testing-library-jquery",
+      "publish_date": "2021-08-18T20:02:31.828000",
+      "age_years": 4.167123287671233,
+      "week1_downloads": 80,
+      "recent_30day_downloads": 8053,
+      "description": "This package adds Testing Library support to jQuery. This brings the suite of Testing Libraries quer"
+    },
+    {
+      "name": "@arabasta/eslint-plugin-testing-library",
+      "publish_date": "2024-10-30T11:50:10.853000",
+      "age_years": 0.9643835616438357,
+      "week1_downloads": 66,
+      "recent_30day_downloads": 1254,
+      "description": "ESLint plugin for testing library rules"
+    },
+    {
+      "name": "@strapi/ts-zen",
+      "publish_date": "2023-10-09T13:13:45.664000",
+      "age_years": 2.0246575342465754,
+      "week1_downloads": 479,
+      "recent_30day_downloads": 3908,
+      "description": "Types Testing Library"
+    },
+    {
+      "name": "stepfunctions-testing",
+      "publish_date": "2022-02-19T07:08:24.048000",
+      "age_years": 3.66027397260274,
+      "week1_downloads": 112,
+      "recent_30day_downloads": 5199,
+      "description": "Step Functions testing library."
+    },
+    {
+      "name": "@thisisagile/easy-test-react",
+      "publish_date": "2021-07-20T07:33:22.189000",
+      "age_years": 4.2465753424657535,
+      "week1_downloads": 1018,
+      "recent_30day_downloads": 18266,
+      "description": "Straightforward wrapper library for testing-library/react"
+    },
+    {
+      "name": "@coolwallet/testing-library",
+      "publish_date": "2022-04-14T08:33:36.894000",
+      "age_years": 3.5123287671232877,
+      "week1_downloads": 49,
+      "recent_30day_downloads": 350,
+      "description": "Testing library for CoolWallet SDKs"
+    },
+    {
+      "name": "@argos-ci/api-client",
+      "publish_date": "2024-04-15T08:52:03.278000",
+      "age_years": 1.5068493150684932,
+      "week1_downloads": 542,
+      "recent_30day_downloads": 319811,
+      "description": "Argos API Client library."
+    },
+    {
+      "name": "@metamask/multichain-api-client",
+      "publish_date": "2025-04-07T15:36:40.436000",
+      "age_years": 0.5287671232876713,
+      "week1_downloads": 1564,
+      "recent_30day_downloads": 336729,
+      "description": "MetaMask Multichain Api Client"
+    },
+    {
+      "name": "@shopify/admin-api-client",
+      "publish_date": "2023-11-29T14:06:29.448000",
+      "age_years": 1.884931506849315,
+      "week1_downloads": 333,
+      "recent_30day_downloads": 762269,
+      "description": "Shopify Admin API Client - A lightweight JS client to interact with Shopify's Admin API"
+    },
+    {
+      "name": "@shopify/storefront-api-client",
+      "publish_date": "2023-04-06T14:55:13.141000",
+      "age_years": 2.5342465753424657,
+      "week1_downloads": 53,
+      "recent_30day_downloads": 691604,
+      "description": "Shopify Storefront API Client - A lightweight JS client to interact with Shopify's Storefront API"
+    },
+    {
+      "name": "@twilio/flex-plugins-api-client",
+      "publish_date": "2022-02-03T20:50:31.726000",
+      "age_years": 3.7041095890410958,
+      "week1_downloads": 431,
+      "recent_30day_downloads": 27937,
+      "description": "Flex Plugins API Client"
+    },
+    {
+      "name": "@vercel/blob",
+      "publish_date": "2023-04-18T10:14:09.651000",
+      "age_years": 2.5013698630136987,
+      "week1_downloads": 697,
+      "recent_30day_downloads": 4093315,
+      "description": "The Vercel Blob JavaScript API client"
+    },
+    {
+      "name": "@vgs/api-client",
+      "publish_date": "2022-03-16T11:29:33.221000",
+      "age_years": 3.591780821917808,
+      "week1_downloads": 54,
+      "recent_30day_downloads": 14849,
+      "description": "VGS API Client"
+    },
+    {
+      "name": "@coveo/push-api-client",
+      "publish_date": "2021-05-13T13:50:03.270000",
+      "age_years": 4.432876712328767,
+      "week1_downloads": 121,
+      "recent_30day_downloads": 24750,
+      "description": "Push API client"
+    },
+    {
+      "name": "@ikas/api-client",
+      "publish_date": "2021-11-24T09:22:42.033000",
+      "age_years": 3.8986301369863012,
+      "week1_downloads": 372,
+      "recent_30day_downloads": 73869,
+      "description": "ikas public node api client for store apps and private apps"
+    },
+    {
+      "name": "@upload-io/upload-api-client-upload-js",
+      "publish_date": "2021-11-09T10:59:38.385000",
+      "age_years": 3.9397260273972603,
+      "week1_downloads": 775,
+      "recent_30day_downloads": 59825,
+      "description": "Upload API Client (Upload.js Edition)"
+    },
+    {
+      "name": "@google-ai/generativelanguage",
+      "publish_date": "2023-05-02T20:07:10.232000",
+      "age_years": 2.463013698630137,
+      "week1_downloads": 456,
+      "recent_30day_downloads": 365091,
+      "description": "Generative Language API client for Node.js"
+    },
+    {
+      "name": "@daytonaio/api-client",
+      "publish_date": "2025-01-27T10:33:40.993000",
+      "age_years": 0.7205479452054795,
+      "week1_downloads": 363,
+      "recent_30day_downloads": 61279,
+      "description": "OpenAPI client for @daytonaio/api-client"
+    },
+    {
+      "name": "slack-web-api-client",
+      "publish_date": "2023-04-26T02:04:44.988000",
+      "age_years": 2.4794520547945207,
+      "week1_downloads": 1282,
+      "recent_30day_downloads": 32687,
+      "description": "Streamlined Slack Web API client for TypeScript"
+    },
+    {
+      "name": "@google-cloud/discoveryengine",
+      "publish_date": "2022-10-19T20:25:39.501000",
+      "age_years": 2.9972602739726026,
+      "week1_downloads": 61,
+      "recent_30day_downloads": 216019,
+      "description": "Discovery Engine API client for Node.js"
+    },
+    {
+      "name": "@octopusdeploy/api-client",
+      "publish_date": "2021-10-26T08:52:45.447000",
+      "age_years": 3.978082191780822,
+      "week1_downloads": 33,
+      "recent_30day_downloads": 11493,
+      "description": "TypeScript API client for Octopus Deploy"
+    },
+    {
+      "name": "@types/data-api-client",
+      "publish_date": "2021-01-11T21:41:01.142000",
+      "age_years": 4.767123287671233,
+      "week1_downloads": 408,
+      "recent_30day_downloads": 18478,
+      "description": "TypeScript definitions for data-api-client"
+    },
+    {
+      "name": "@helia/delegated-routing-v1-http-api-client",
+      "publish_date": "2023-10-24T12:45:47.203000",
+      "age_years": 1.9835616438356165,
+      "week1_downloads": 296,
+      "recent_30day_downloads": 50546,
+      "description": "A Delegated Routing V1 HTTP API client"
+    },
+    {
+      "name": "@mondaydotcomorg/api",
+      "publish_date": "2024-03-19T09:30:18.855000",
+      "age_years": 1.5808219178082192,
+      "week1_downloads": 0,
+      "recent_30day_downloads": 53226,
+      "description": "monday.com API client"
+    },
+    {
+      "name": "update-browserslist-db",
+      "publish_date": "2022-06-21T15:39:49.595000",
+      "age_years": 3.326027397260274,
+      "week1_downloads": 6449023,
+      "recent_30day_downloads": 256675914,
+      "description": "CLI tool to update caniuse-lite to refresh target browsers from Browserslist config"
+    },
+    {
+      "name": "@lightdash/cli",
+      "publish_date": "2022-05-03T15:03:11.360000",
+      "age_years": 3.4602739726027396,
+      "week1_downloads": 96,
+      "recent_30day_downloads": 164923,
+      "description": "Lightdash CLI tool"
+    },
+    {
+      "name": "@arethetypeswrong/cli",
+      "publish_date": "2023-06-04T19:52:18.211000",
+      "age_years": 2.372602739726027,
+      "week1_downloads": 0,
+      "recent_30day_downloads": 1180663,
+      "description": "A CLI tool for arethetypeswrong.github.io"
+    },
+    {
+      "name": "@gql.tada/cli-utils",
+      "publish_date": "2024-02-21T09:09:05.800000",
+      "age_years": 1.6547945205479453,
+      "week1_downloads": 762,
+      "recent_30day_downloads": 1389070,
+      "description": "Main logic for gql.tada\u2019s CLI tool."
+    },
+    {
+      "name": "@catladder/cli",
+      "publish_date": "2022-01-02T12:14:52.503000",
+      "age_years": 3.791780821917808,
+      "week1_downloads": 1327,
+      "recent_30day_downloads": 798148,
+      "description": "Panter cli tool for cloud CI/CD and DevOps"
+    },
+    {
+      "name": "@shopify/cli",
+      "publish_date": "2022-01-14T15:02:12.633000",
+      "age_years": 3.758904109589041,
+      "week1_downloads": 268,
+      "recent_30day_downloads": 857658,
+      "description": "A CLI tool to build for the Shopify platform"
+    },
+    {
+      "name": "@gql.tada/internal",
+      "publish_date": "2024-03-20T16:11:59.791000",
+      "age_years": 1.5780821917808219,
+      "week1_downloads": 8062,
+      "recent_30day_downloads": 1720695,
+      "description": "Internal logic for gql.tada\u2019s CLI tool and GraphQLSP."
+    },
+    {
+      "name": "eslint-interactive",
+      "publish_date": "2022-02-21T14:06:03.972000",
+      "age_years": 3.654794520547945,
+      "week1_downloads": 42,
+      "recent_30day_downloads": 604215,
+      "description": "The CLI tool to run `eslint --fix` for each rule"
+    },
+    {
+      "name": "@composio/mcp",
+      "publish_date": "2025-03-10T16:57:25.783000",
+      "age_years": 0.6054794520547945,
+      "week1_downloads": 1629,
+      "recent_30day_downloads": 27565,
+      "description": "MCP CLI tool"
+    },
+    {
+      "name": "nestia",
+      "publish_date": "2021-02-12T15:07:55.663000",
+      "age_years": 4.67945205479452,
+      "week1_downloads": 535,
+      "recent_30day_downloads": 30349,
+      "description": "Nestia CLI tool"
+    },
+    {
+      "name": "neonctl",
+      "publish_date": "2022-08-17T11:11:00.188000",
+      "age_years": 3.16986301369863,
+      "week1_downloads": 44,
+      "recent_30day_downloads": 162152,
+      "description": "CLI tool for NeonDB Cloud management"
+    },
+    {
+      "name": "@trunkio/launcher",
+      "publish_date": "2022-03-03T21:43:59.598000",
+      "age_years": 3.627397260273973,
+      "week1_downloads": 96,
+      "recent_30day_downloads": 95353,
+      "description": "Trunk CLI tool"
+    },
+    {
+      "name": "@devcycle/cli",
+      "publish_date": "2022-01-19T16:26:17.623000",
+      "age_years": 3.745205479452055,
+      "week1_downloads": 348,
+      "recent_30day_downloads": 27131,
+      "description": "DevCycle CLI Tool"
+    },
+    {
+      "name": "@cybozu/license-manager",
+      "publish_date": "2023-08-01T02:22:54.758000",
+      "age_years": 2.213698630136986,
+      "week1_downloads": 280,
+      "recent_30day_downloads": 38561,
+      "description": "CLI tool for license management"
+    },
+    {
+      "name": "@coral-xyz/anchor-cli",
+      "publish_date": "2022-12-16T12:49:08.866000",
+      "age_years": 2.8383561643835615,
+      "week1_downloads": 68,
+      "recent_30day_downloads": 36414,
+      "description": "Anchor CLI tool"
+    },
+    {
+      "name": "@devvit/cli",
+      "publish_date": "2022-10-17T17:58:08.249000",
+      "age_years": 3.0027397260273974,
+      "week1_downloads": 12,
+      "recent_30day_downloads": 55213,
+      "description": "Reddit's Dev Platform CLI Tool"
+    },
+    {
+      "name": "gtx-cli",
+      "publish_date": "2025-03-04T22:37:38.263000",
+      "age_years": 0.6219178082191781,
+      "week1_downloads": 512,
+      "recent_30day_downloads": 13270,
+      "description": "CLI tool for AI-powered i18n"
+    },
+    {
+      "name": "@upstash/qstash-cli",
+      "publish_date": "2025-01-13T12:01:36.747000",
+      "age_years": 0.7589041095890411,
+      "week1_downloads": 0,
+      "recent_30day_downloads": 16448,
+      "description": "Offical CLI tool for QStash"
+    },
+    {
+      "name": "wgc",
+      "publish_date": "2023-06-23T20:10:35.282000",
+      "age_years": 2.3205479452054796,
+      "week1_downloads": 63,
+      "recent_30day_downloads": 225018,
+      "description": "The official CLI tool to manage the GraphQL Federation Platform Cosmo"
+    },
+    {
+      "name": "@shopify/create-app",
+      "publish_date": "2022-01-14T15:37:30.560000",
+      "age_years": 3.758904109589041,
+      "week1_downloads": 245,
+      "recent_30day_downloads": 89855,
+      "description": "A CLI tool to create a new Shopify app."
+    },
+    {
+      "name": "@lobehub/seo-cli",
+      "publish_date": "2024-03-24T07:17:27.216000",
+      "age_years": 1.5671232876712329,
+      "week1_downloads": 738,
+      "recent_30day_downloads": 238880,
+      "description": "Lobe seo is a CLI tool that automate generation seo content for mdx"
+    },
+    {
+      "name": "nango",
+      "publish_date": "2023-05-11T07:44:55.035000",
+      "age_years": 2.4383561643835616,
+      "week1_downloads": 0,
+      "recent_30day_downloads": 20870,
+      "description": "Nango's CLI tool."
+    },
+    {
+      "name": "fix-verbatim-module-syntax",
+      "publish_date": "2024-12-25T03:35:56.383000",
+      "age_years": 0.810958904109589,
+      "week1_downloads": 633,
+      "recent_30day_downloads": 33555,
+      "description": "CLI tool to auto-fix verbatimModuleSyntax errors"
+    },
+    {
+      "name": "@lobehub/i18n-cli",
+      "publish_date": "2023-07-14T10:22:25.257000",
+      "age_years": 2.263013698630137,
+      "week1_downloads": 531,
+      "recent_30day_downloads": 244201,
+      "description": "Lobe i18n is a CLI tool that automate translate your i18n localization with AI"
+    },
+    {
+      "name": "@codecov/webpack-plugin",
+      "publish_date": "2023-12-21T18:46:37.046000",
+      "age_years": 1.8246575342465754,
+      "week1_downloads": 59,
+      "recent_30day_downloads": 353326,
+      "description": "Official Codecov Webpack plugin"
+    },
+    {
+      "name": "@rsdoctor/webpack-plugin",
+      "publish_date": "2023-12-21T09:32:11.479000",
+      "age_years": 1.8246575342465754,
+      "week1_downloads": 114,
+      "recent_30day_downloads": 432189,
+      "description": "A webpack plugin for integrating Rsdoctor."
+    },
+    {
+      "name": "@storybook/react-docgen-typescript-plugin",
+      "publish_date": "2021-05-20T04:24:04.546000",
+      "age_years": 4.413698630136986,
+      "week1_downloads": 8516,
+      "recent_30day_downloads": 15734451,
+      "description": "A webpack plugin to inject react typescript docgen information."
+    },
+    {
+      "name": "@datadog/webpack-plugin",
+      "publish_date": "2024-04-26T15:29:18.454000",
+      "age_years": 1.4767123287671233,
+      "week1_downloads": 574,
+      "recent_30day_downloads": 13970,
+      "description": "Datadog Webpack Plugin"
+    },
+    {
+      "name": "@umijs/case-sensitive-paths-webpack-plugin",
+      "publish_date": "2022-07-15T06:53:58.165000",
+      "age_years": 3.26027397260274,
+      "week1_downloads": 1061,
+      "recent_30day_downloads": 233392,
+      "description": "A webpack plugin to enforce case-sensitive paths when resolving module"
+    }
+  ]
+}
